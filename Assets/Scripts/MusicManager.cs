@@ -12,6 +12,7 @@ public class MusicManager : MonoBehaviour
     
     [SerializeField]
     private EventReference music;
+    private static EventInstance musicInstance;
     
     public TimelineInfo timelineInfo = null;
 
@@ -19,14 +20,23 @@ public class MusicManager : MonoBehaviour
 
     private EVENT_CALLBACK beatCallback;
     private EventDescription descriptionCallback;
-    private static EventInstance eventInstance;
+
+    public delegate void BeatEventDelegate();
+    public static event BeatEventDelegate beatUpdated;
+
+    public delegate void MarkerListenerDelegate();
+    public static event MarkerListenerDelegate markerUpdated;
+
+    public static int lastBeat = 0;
+    public static string lastMarkerString = null;
+    
 
     private void Awake()
     {
         Instance = this;
         
-        eventInstance = RuntimeManager.CreateInstance(music);
-        eventInstance.start();
+        musicInstance = RuntimeManager.CreateInstance(music);
+        musicInstance.start();
     }
 
     private void Start()
@@ -35,32 +45,55 @@ public class MusicManager : MonoBehaviour
         beatCallback = BeatEventCallback;
         
         timelineHandle = GCHandle.Alloc(timelineInfo, GCHandleType.Pinned);
-        eventInstance.setUserData(GCHandle.ToIntPtr(timelineHandle));
-        eventInstance.setCallback(beatCallback, FMOD.Studio.EVENT_CALLBACK_TYPE.TIMELINE_BEAT | FMOD.Studio.EVENT_CALLBACK_TYPE.TIMELINE_MARKER);
+        musicInstance.setUserData(GCHandle.ToIntPtr(timelineHandle));
+        musicInstance.setCallback(beatCallback, EVENT_CALLBACK_TYPE.TIMELINE_BEAT | EVENT_CALLBACK_TYPE.TIMELINE_MARKER);
 
-        eventInstance.getDescription(out descriptionCallback);
+        musicInstance.getDescription(out descriptionCallback);
         descriptionCallback.getLength(out int length);
         timelineInfo.songLength = length;
     }
 
     private void OnDestroy()
     {
-        eventInstance.setUserData(IntPtr.Zero);
-        eventInstance.stop(STOP_MODE.IMMEDIATE);
-        eventInstance.release();
+        musicInstance.setUserData(IntPtr.Zero);
+        musicInstance.stop(STOP_MODE.IMMEDIATE);
+        musicInstance.release();
         
         timelineHandle.Free();
     }
 
     private void Update()
     {
-        eventInstance.getTimelinePosition(out timelineInfo.currentPosition);
+        musicInstance.getTimelinePosition(out timelineInfo.currentPosition);
+        
+        if (lastMarkerString != timelineInfo.lastMarker)
+        {
+            lastMarkerString = timelineInfo.lastMarker;
+            markerUpdated?.Invoke();
+        }
+        
+        if (lastBeat != timelineInfo.currentBeat)
+        {
+            lastBeat = timelineInfo.currentBeat;
+            beatUpdated?.Invoke();
+        }
     }
+    
+#if UNITY_EDITOR
+    
+    private void OnGUI()
+    {
+        GUILayout.Box($"Current Beat = {timelineInfo.currentBeat}, Last Marker = {(string)timelineInfo.lastMarker}");
+    }
+    
+#endif
 
     [AOT.MonoPInvokeCallback(typeof(EVENT_CALLBACK))]
-    static RESULT BeatEventCallback(EVENT_CALLBACK_TYPE type, IntPtr _eventPtr, IntPtr parameterPtr)
-    {       
-        RESULT result = eventInstance.getUserData(out var timelineInfoPtr);
+    static RESULT BeatEventCallback(EVENT_CALLBACK_TYPE type, IntPtr instancePtr, IntPtr parameterPtr)
+    {
+        EventInstance instance = new EventInstance(instancePtr);
+        RESULT result = instance.getUserData(out var timelineInfoPtr);
+        
         if (result != RESULT.OK)
         {
             Debug.LogError("Timeline Callback error: " + result);
@@ -88,6 +121,7 @@ public class MusicManager : MonoBehaviour
                     break;
             }
         }
+        
         return RESULT.OK;
     }
 }
@@ -100,5 +134,5 @@ public class TimelineInfo
     public float currentTempo = 0;
     public int currentPosition = 0;
     public float songLength = 0;
-    public FMOD.StringWrapper lastMarker = new FMOD.StringWrapper();
+    public FMOD.StringWrapper lastMarker = new();
 }

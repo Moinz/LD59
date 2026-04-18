@@ -113,10 +113,10 @@ TextureImporter:
       name: morestuff_0
       rect:
         serializedVersion: 2
-        x: 13
-        y: 1318
-        width: 129
-        height: 173
+        x: 0
+        y: 2152
+        width: 124
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -135,10 +135,10 @@ TextureImporter:
       name: morestuff_1
       rect:
         serializedVersion: 2
-        x: 335
-        y: 1487
-        width: 516
-        height: 6
+        x: 484
+        y: 2148
+        width: 748
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -157,10 +157,10 @@ TextureImporter:
       name: morestuff_2
       rect:
         serializedVersion: 2
-        x: 420
-        y: 1485
-        width: 6
-        height: 4
+        x: 1607
+        y: 2142
+        width: 740
+        height: 18
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,10 +179,10 @@ TextureImporter:
       name: morestuff_3
       rect:
         serializedVersion: 2
-        x: 1111
-        y: 1464
-        width: 511
-        height: 29
+        x: 2696
+        y: 2151
+        width: 267
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -201,9 +201,9 @@ TextureImporter:
       name: morestuff_4
       rect:
         serializedVersion: 2
-        x: 1864
-        y: 1487
-        width: 184
+        x: 1735
+        y: 2140
+        width: 6
         height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -223,10 +223,10 @@ TextureImporter:
       name: morestuff_5
       rect:
         serializedVersion: 2
-        x: 1760
-        y: 1468
-        width: 5
-        height: 7
+        x: 142
+        y: 2126
+        width: 4
+        height: 4
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -245,10 +245,10 @@ TextureImporter:
       name: morestuff_6
       rect:
         serializedVersion: 2
-        x: 1488
-        y: 1451
-        width: 4
-        height: 6
+        x: 1976
+        y: 2128
+        width: 5
+        height: 5
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -267,10 +267,10 @@ TextureImporter:
       name: morestuff_7
       rect:
         serializedVersion: 2
-        x: 1947
-        y: 1426
-        width: 4
-        height: 4
+        x: 2546
+        y: 2123
+        width: 8
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -289,10 +289,10 @@ TextureImporter:
       name: morestuff_8
       rect:
         serializedVersion: 2
-        x: 616
-        y: 1387
-        width: 4
-        height: 4
+        x: 1726
+        y: 2117
+        width: 5
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -311,10 +311,10 @@ TextureImporter:
       name: morestuff_9
       rect:
         serializedVersion: 2
-        x: 425
-        y: 1382
-        width: 4
-        height: 4
+        x: 2152
+        y: 2099
+        width: 7
+        height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -333,10 +333,10 @@ TextureImporter:
       name: morestuff_10
       rect:
         serializedVersion: 2
-        x: 945
-        y: 1360
-        width: 4
-        height: 4
+        x: 2816
+        y: 2062
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -355,10 +355,10 @@ TextureImporter:
       name: morestuff_11
       rect:
         serializedVersion: 2
-        x: 311
-        y: 1196
-        width: 124
-        height: 147
+        x: 891
+        y: 2007
+        width: 7
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -377,10 +377,10 @@ TextureImporter:
       name: morestuff_12
       rect:
         serializedVersion: 2
-        x: 1368
-        y: 1324
-        width: 77
-        height: 32
+        x: 19
+        y: 1999
+        width: 8
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -399,10 +399,10 @@ TextureImporter:
       name: morestuff_13
       rect:
         serializedVersion: 2
-        x: 1813
-        y: 1297
-        width: 4
-        height: 4
+        x: 615
+        y: 1999
+        width: 6
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -421,10 +421,10 @@ TextureImporter:
       name: morestuff_14
       rect:
         serializedVersion: 2
-        x: 217
-        y: 1284
-        width: 10
-        height: 5
+        x: 1367
+        y: 1967
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -443,10 +443,10 @@ TextureImporter:
       name: morestuff_15
       rect:
         serializedVersion: 2
-        x: 505
-        y: 1268
-        width: 5
-        height: 4
+        x: 1978
+        y: 1957
+        width: 8
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -465,10 +465,10 @@ TextureImporter:
       name: morestuff_16
       rect:
         serializedVersion: 2
-        x: 60
-        y: 1256
-        width: 6
-        height: 5
+        x: 449
+        y: 1938
+        width: 7
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -487,10 +487,10 @@ TextureImporter:
       name: morestuff_17
       rect:
         serializedVersion: 2
-        x: 259
-        y: 1235
-        width: 4
-        height: 5
+        x: 491
+        y: 1730
+        width: 139
+        height: 208
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -509,10 +509,10 @@ TextureImporter:
       name: morestuff_18
       rect:
         serializedVersion: 2
-        x: 396
-        y: 1049
-        width: 180
-        height: 195
+        x: 2075
+        y: 1915
+        width: 16
+        height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -531,10 +531,10 @@ TextureImporter:
       name: morestuff_19
       rect:
         serializedVersion: 2
-        x: 925
-        y: 1060
-        width: 389
-        height: 178
+        x: 200
+        y: 1906
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -553,10 +553,10 @@ TextureImporter:
       name: morestuff_20
       rect:
         serializedVersion: 2
-        x: 855
-        y: 1220
-        width: 4
-        height: 4
+        x: 2622
+        y: 1876
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -575,10 +575,10 @@ TextureImporter:
       name: morestuff_21
       rect:
         serializedVersion: 2
-        x: 179
-        y: 1178
-        width: 4
-        height: 4
+        x: 313
+        y: 1857
+        width: 16
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -597,10 +597,10 @@ TextureImporter:
       name: morestuff_22
       rect:
         serializedVersion: 2
-        x: 1672
-        y: 1026
-        width: 286
-        height: 173
+        x: 730
+        y: 1834
+        width: 8
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -619,10 +619,10 @@ TextureImporter:
       name: morestuff_23
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1051
-        width: 240
-        height: 120
+        x: 86
+        y: 1816
+        width: 10
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -641,10 +641,10 @@ TextureImporter:
       name: morestuff_24
       rect:
         serializedVersion: 2
-        x: 2012
-        y: 1089
+        x: 375
+        y: 1786
         width: 6
-        height: 4
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -663,10 +663,10 @@ TextureImporter:
       name: morestuff_25
       rect:
         serializedVersion: 2
-        x: 25
-        y: 863
-        width: 144
-        height: 114
+        x: 730
+        y: 1536
+        width: 104
+        height: 264
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -685,10 +685,10 @@ TextureImporter:
       name: morestuff_26
       rect:
         serializedVersion: 2
-        x: 259
-        y: 767
-        width: 116
-        height: 213
+        x: 1338
+        y: 1539
+        width: 318
+        height: 253
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -707,10 +707,10 @@ TextureImporter:
       name: morestuff_27
       rect:
         serializedVersion: 2
-        x: 520
-        y: 593
-        width: 153
-        height: 399
+        x: 1236
+        y: 1764
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -729,10 +729,10 @@ TextureImporter:
       name: morestuff_28
       rect:
         serializedVersion: 2
-        x: 726
-        y: 880
-        width: 109
-        height: 176
+        x: 258
+        y: 1704
+        width: 7
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -751,10 +751,10 @@ TextureImporter:
       name: morestuff_29
       rect:
         serializedVersion: 2
-        x: 930
-        y: 975
-        width: 68
-        height: 47
+        x: 2418
+        y: 1484
+        width: 415
+        height: 251
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -773,10 +773,10 @@ TextureImporter:
       name: morestuff_30
       rect:
         serializedVersion: 2
-        x: 362
-        y: 918
+        x: 0
+        y: 1533
         width: 4
-        height: 4
+        height: 5
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -795,10 +795,10 @@ TextureImporter:
       name: morestuff_31
       rect:
         serializedVersion: 2
-        x: 355
-        y: 904
-        width: 4
-        height: 4
+        x: 169
+        y: 1520
+        width: 179
+        height: 175
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -817,10 +817,10 @@ TextureImporter:
       name: morestuff_32
       rect:
         serializedVersion: 2
-        x: 387
-        y: 871
-        width: 4
-        height: 4
+        x: 773
+        y: 1531
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -839,10 +839,10 @@ TextureImporter:
       name: morestuff_33
       rect:
         serializedVersion: 2
-        x: 671
-        y: 802
+        x: 1827
+        y: 1533
         width: 5
-        height: 6
+        height: 5
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -861,10 +861,10 @@ TextureImporter:
       name: morestuff_34
       rect:
         serializedVersion: 2
-        x: 1407
-        y: 506
-        width: 281
-        height: 364
+        x: 1898
+        y: 1573
+        width: 4
+        height: 5
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -883,10 +883,10 @@ TextureImporter:
       name: morestuff_35
       rect:
         serializedVersion: 2
-        x: 438
-        y: 731
-        width: 5
-        height: 4
+        x: 2910
+        y: 1535
+        width: 53
+        height: 47
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -905,10 +905,10 @@ TextureImporter:
       name: morestuff_36
       rect:
         serializedVersion: 2
-        x: 665
-        y: 717
-        width: 44
-        height: 55
+        x: 573
+        y: 1517
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -927,10 +927,10 @@ TextureImporter:
       name: morestuff_37
       rect:
         serializedVersion: 2
-        x: 164
-        y: 567
-        width: 95
-        height: 155
+        x: 1050
+        y: 1273
+        width: 159
+        height: 255
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -949,10 +949,10 @@ TextureImporter:
       name: morestuff_38
       rect:
         serializedVersion: 2
-        x: 333
-        y: 683
-        width: 4
-        height: 4
+        x: 1345
+        y: 1468
+        width: 8
+        height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -971,10 +971,10 @@ TextureImporter:
       name: morestuff_39
       rect:
         serializedVersion: 2
-        x: 417
-        y: 631
-        width: 93
-        height: 84
+        x: 928
+        y: 1430
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -993,10 +993,10 @@ TextureImporter:
       name: morestuff_40
       rect:
         serializedVersion: 2
-        x: 744
-        y: 549
-        width: 308
-        height: 171
+        x: 238
+        y: 1407
+        width: 7
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1015,10 +1015,10 @@ TextureImporter:
       name: morestuff_41
       rect:
         serializedVersion: 2
-        x: 1891
-        y: 511
-        width: 43
-        height: 191
+        x: 464
+        y: 1413
+        width: 7
+        height: 5
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1037,10 +1037,10 @@ TextureImporter:
       name: morestuff_42
       rect:
         serializedVersion: 2
-        x: 275
-        y: 560
-        width: 8
-        height: 7
+        x: 1439
+        y: 1410
+        width: 6
+        height: 5
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1059,10 +1059,10 @@ TextureImporter:
       name: morestuff_43
       rect:
         serializedVersion: 2
-        x: 28
-        y: 491
-        width: 105
-        height: 58
+        x: 146
+        y: 1364
+        width: 5
+        height: 4
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1081,10 +1081,10 @@ TextureImporter:
       name: morestuff_44
       rect:
         serializedVersion: 2
-        x: 418
-        y: 419
-        width: 217
-        height: 126
+        x: 375
+        y: 1116
+        width: 113
+        height: 261
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1103,10 +1103,10 @@ TextureImporter:
       name: morestuff_45
       rect:
         serializedVersion: 2
-        x: 753
-        y: 544
-        width: 5
-        height: 4
+        x: 752
+        y: 1046
+        width: 120
+        height: 341
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1125,10 +1125,10 @@ TextureImporter:
       name: morestuff_46
       rect:
         serializedVersion: 2
-        x: 967
-        y: 491
-        width: 4
-        height: 4
+        x: 523
+        y: 1328
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1147,10 +1147,10 @@ TextureImporter:
       name: morestuff_47
       rect:
         serializedVersion: 2
-        x: 784
-        y: 479
-        width: 4
-        height: 4
+        x: 513
+        y: 1308
+        width: 7
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1169,10 +1169,10 @@ TextureImporter:
       name: morestuff_48
       rect:
         serializedVersion: 2
-        x: 336
-        y: 443
+        x: 560
+        y: 1260
         width: 6
-        height: 4
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1191,10 +1191,10 @@ TextureImporter:
       name: morestuff_49
       rect:
         serializedVersion: 2
-        x: 381
-        y: 443
-        width: 6
-        height: 4
+        x: 36
+        y: 1248
+        width: 5
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1213,10 +1213,10 @@ TextureImporter:
       name: morestuff_50
       rect:
         serializedVersion: 2
-        x: 1328
-        y: 434
-        width: 4
-        height: 4
+        x: 2206
+        y: 1251
+        width: 5
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1235,10 +1235,10 @@ TextureImporter:
       name: morestuff_51
       rect:
         serializedVersion: 2
-        x: 0
-        y: 232
-        width: 283
-        height: 194
+        x: 536
+        y: 1190
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1257,10 +1257,10 @@ TextureImporter:
       name: morestuff_52
       rect:
         serializedVersion: 2
-        x: 283
-        y: 419
-        width: 5
-        height: 4
+        x: 970
+        y: 1160
+        width: 9
+        height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1279,9 +1279,9 @@ TextureImporter:
       name: morestuff_53
       rect:
         serializedVersion: 2
-        x: 254
-        y: 372
-        width: 5
+        x: 517
+        y: 1110
+        width: 4
         height: 4
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1301,10 +1301,10 @@ TextureImporter:
       name: morestuff_54
       rect:
         serializedVersion: 2
-        x: 1263
-        y: 373
-        width: 5
-        height: 4
+        x: 962
+        y: 1037
+        width: 64
+        height: 81
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1323,10 +1323,10 @@ TextureImporter:
       name: morestuff_55
       rect:
         serializedVersion: 2
-        x: 94
-        y: 26
-        width: 5
-        height: 4
+        x: 2057
+        y: 878
+        width: 386
+        height: 266
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1345,10 +1345,10 @@ TextureImporter:
       name: morestuff_56
       rect:
         serializedVersion: 2
-        x: 115
-        y: 15
-        width: 5
-        height: 4
+        x: 633
+        y: 1057
+        width: 9
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1367,10 +1367,10 @@ TextureImporter:
       name: morestuff_57
       rect:
         serializedVersion: 2
-        x: 125
-        y: 14
-        width: 6
-        height: 5
+        x: 237
+        y: 820
+        width: 138
+        height: 225
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1389,10 +1389,10 @@ TextureImporter:
       name: morestuff_58
       rect:
         serializedVersion: 2
-        x: 258
-        y: 97
-        width: 221
-        height: 230
+        x: 714
+        y: 1028
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1411,10 +1411,10 @@ TextureImporter:
       name: morestuff_59
       rect:
         serializedVersion: 2
-        x: 410
-        y: 45
-        width: 4
-        height: 4
+        x: 1076
+        y: 794
+        width: 390
+        height: 247
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1433,10 +1433,10 @@ TextureImporter:
       name: morestuff_60
       rect:
         serializedVersion: 2
-        x: 497
-        y: 54
-        width: 29
-        height: 63
+        x: 603
+        y: 912
+        width: 135
+        height: 112
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1455,10 +1455,10 @@ TextureImporter:
       name: morestuff_61
       rect:
         serializedVersion: 2
-        x: 499
-        y: 133
-        width: 123
-        height: 227
+        x: 2793
+        y: 1011
+        width: 6
+        height: 5
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1477,10 +1477,10 @@ TextureImporter:
       name: morestuff_62
       rect:
         serializedVersion: 2
-        x: 520
-        y: 128
-        width: 5
-        height: 5
+        x: 481
+        y: 987
+        width: 7
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1499,10 +1499,10 @@ TextureImporter:
       name: morestuff_63
       rect:
         serializedVersion: 2
-        x: 725
-        y: 51
-        width: 399
-        height: 271
+        x: 2035
+        y: 990
+        width: 7
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1521,10 +1521,10 @@ TextureImporter:
       name: morestuff_64
       rect:
         serializedVersion: 2
-        x: 725
-        y: 33
-        width: 4
-        height: 4
+        x: 904
+        y: 922
+        width: 5
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1543,10 +1543,10 @@ TextureImporter:
       name: morestuff_65
       rect:
         serializedVersion: 2
-        x: 1201
-        y: 0
-        width: 847
-        height: 369
+        x: 1517
+        y: 863
+        width: 5
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1557,6 +1557,1150 @@ TextureImporter:
       bones: []
       spriteID: f7d4f0fb87e1a234e8e9e311d7308c52
       internalID: 1580911629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_66
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 869
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd877ead9b61f1c48a366cbad2a28128
+      internalID: 1064136559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_67
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 857
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f44d601fb1ad542b50fc6abfa3a06b
+      internalID: 2106329348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_68
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 810
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c2fe25440622942923153067d838f1
+      internalID: -204542670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_69
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 789
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b029005efc096f449a782183591198e8
+      internalID: 809411648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_70
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 606
+        width: 226
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e3487b8644caf418b27934a1b427ac
+      internalID: -1502402841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_71
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 787
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0db06198aff299458137b1c258ac492
+      internalID: -1237708358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_72
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 775
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd8dbdcfa7af754a8ebeebe97717c72
+      internalID: 216870297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f065d46e02186704bbbab0ed1ea2d59f
+      internalID: -1850240531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 144
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffe3fdfa004c3e499255dc8d55e672f
+      internalID: 310387507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_75
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 21
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16823d2df29c3b846862b1082d8b9103
+      internalID: -1527359234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_76
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 20
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae554b2633c85a4b848094efe7ca05e
+      internalID: 1804423859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_77
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 710
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ca9cd36e3c25141b6341b2a5ec36f6
+      internalID: -26677284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_78
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 345
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e979b05fd04e9e48ba46687c2f714c3
+      internalID: 113596455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_79
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 357
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994e4b80263f7234297b53faa7e0df8b
+      internalID: -1509955537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_80
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 468
+        width: 143
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dfd33e765e37348a2645b509509024
+      internalID: 1075614279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_81
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 537
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e1c0b6f26047447a36022f5f30440c
+      internalID: 1602585271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_82
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 140
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad2e4e929de3cd40a8d509d5b32901c
+      internalID: 1777405387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_83
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 497
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e4a09e360bbea4fad263198fecd5d4
+      internalID: -1571504309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_84
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 606
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3733fd48fd1d9641b69f02f6a1c4f5a
+      internalID: 1479189239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_85
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 0
+        width: 746
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9767e7c8aa1906c4eb5f1bb67dd0b599
+      internalID: 176252814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_86
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 640
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5495c9dcd7eaf49bf5ca46e5a9c58c
+      internalID: 1372122719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_87
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 241
+        width: 206
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d076d5abeeb7a4abf1ea89e3a2d5a0
+      internalID: -646089152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_88
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 470
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6686ece7d3cb54e911ac4ecbdf9f20
+      internalID: 504150015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_89
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 640
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec084f9d808a5c545b3aa184d7675bf6
+      internalID: 1265256010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_90
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a964d442362bf3441ab7dea416e52b40
+      internalID: -232754611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_91
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 162
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fddbfbc6a3caa41a73b748a17746d8
+      internalID: -1590005400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_92
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 516
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1906a5a7b90d7b49b6bb507c8aa882e
+      internalID: -172447134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_93
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 153
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c634ca7b989f14e8b8ae80a01910e7
+      internalID: 79169375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_94
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 184
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2726586b2ffdc48a9a8653e03dc5d9
+      internalID: 1558268447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_95
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 198
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c98e863a9be214483f41f79b826434
+      internalID: -1854526351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_96
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 77
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa8e1f812def4e46b928cdc80c94907
+      internalID: -204820771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_97
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 192
+        width: 89
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6db1eee2690d94cbd3efc8a30845c3
+      internalID: -532271006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_98
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 365
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b11eb826a8a7f4f967ddd2a3bebca0
+      internalID: -1665156575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_99
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 300
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4886c75e89b52fa4688f04b9b4550b8a
+      internalID: -429881799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_100
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 653
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fd3adbb76c3a048bb9c0ae947cae34
+      internalID: -1357353479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_101
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 461
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c44bf89ffed3c41bdabfe164625daf
+      internalID: 1799368315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_102
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 238
+        width: 404
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f1e72bae03f5d44a308c7a027c9ae5
+      internalID: -558286038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_103
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 693
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533cd2b0a7b75b045b262e16c7535595
+      internalID: -1196193074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_104
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 710
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9d174e0086fa04da624b18685e7193
+      internalID: 1657739755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_105
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 74
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1215de8dfada5f4e91d27dba3653081
+      internalID: -1141883369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_106
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 157
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39ba396b8ab2634aaa9917f39d57f96
+      internalID: -303748909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_107
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 0
+        width: 738
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5294867223452f54a9f5504414fcbc8d
+      internalID: 2093597064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_108
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 200
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30a83f6817b0b94dbe15bb0bdab77da
+      internalID: -68369528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_109
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 301
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5327034c9a0ed694b8425edd81422c00
+      internalID: 1483760143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_110
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 539
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1748f72e565952e4f82ea4c7d9150504
+      internalID: 1155809942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_111
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 628
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30ae1b6ea5fe40469909fc46a32250a
+      internalID: -1052443617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_112
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 296
+        width: 318
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428eb29298dd5a444a89f1633d73b076
+      internalID: -948524374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_113
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 732
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1559046b4e510a44c9c316144b3ab561
+      internalID: -2057312815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_114
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 248
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2929d1134cfec498d4f47057c8d2b9
+      internalID: -1252369757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_115
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 378
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466298138657ef04b9c66af3ce59ad7a
+      internalID: 992032903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_116
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 381
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e06f0c237f580848abb9acadc35b40c
+      internalID: -284536026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morestuff_117
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 0
+        width: 267
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d226fb518a94d5479098fd81a4ae062
+      internalID: -1105524359
       vertices: []
       indices: 
       edges: []
@@ -1575,14 +2719,32 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceOnImport
-        value: True
+        value: False
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":true,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       morestuff_0: -844259775
       morestuff_1: -1768193599
       morestuff_10: 788939429
+      morestuff_100: -1357353479
+      morestuff_101: 1799368315
+      morestuff_102: -558286038
+      morestuff_103: -1196193074
+      morestuff_104: 1657739755
+      morestuff_105: -1141883369
+      morestuff_106: -303748909
+      morestuff_107: 2093597064
+      morestuff_108: -68369528
+      morestuff_109: 1483760143
       morestuff_11: 1089687514
+      morestuff_110: 1155809942
+      morestuff_111: -1052443617
+      morestuff_112: -948524374
+      morestuff_113: -2057312815
+      morestuff_114: -1252369757
+      morestuff_115: 992032903
+      morestuff_116: -284536026
+      morestuff_117: -1105524359
       morestuff_12: -1095989973
       morestuff_13: -1941393142
       morestuff_14: -1915594038
@@ -1642,9 +2804,43 @@ TextureImporter:
       morestuff_63: -1148966605
       morestuff_64: -1138800263
       morestuff_65: 1580911629
+      morestuff_66: 1064136559
+      morestuff_67: 2106329348
+      morestuff_68: -204542670
+      morestuff_69: 809411648
       morestuff_7: 490892298
+      morestuff_70: -1502402841
+      morestuff_71: -1237708358
+      morestuff_72: 216870297
+      morestuff_73: -1850240531
+      morestuff_74: 310387507
+      morestuff_75: -1527359234
+      morestuff_76: 1804423859
+      morestuff_77: -26677284
+      morestuff_78: 113596455
+      morestuff_79: -1509955537
       morestuff_8: 863691093
+      morestuff_80: 1075614279
+      morestuff_81: 1602585271
+      morestuff_82: 1777405387
+      morestuff_83: -1571504309
+      morestuff_84: 1479189239
+      morestuff_85: 176252814
+      morestuff_86: 1372122719
+      morestuff_87: -646089152
+      morestuff_88: 504150015
+      morestuff_89: 1265256010
       morestuff_9: 1534499543
+      morestuff_90: -232754611
+      morestuff_91: -1590005400
+      morestuff_92: -172447134
+      morestuff_93: 79169375
+      morestuff_94: 1558268447
+      morestuff_95: -1854526351
+      morestuff_96: -204820771
+      morestuff_97: -532271006
+      morestuff_98: -1665156575
+      morestuff_99: -429881799
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
