@@ -1,20 +1,27 @@
+using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Cursor : MonoBehaviour
+public class PlayerCursor : MonoBehaviour
 {
+    public static PlayerCursor Instance;
+    
     [SerializeField] private PlayerInput playerInput;
     [SerializeField] private float worldZ;
 
     private readonly List<Target> hoverables = new();
+
+    public delegate void ClickHandler();
+    public static event ClickHandler playerClick;
     
     private Camera mainCamera;
 
     private void Awake()
     {
+        Instance = this;
         mainCamera = Camera.main;
 
-        UnityEngine.Cursor.visible = false;
+        Cursor.visible = false;
 
         if (playerInput == null)
         {
@@ -27,7 +34,7 @@ public class Cursor : MonoBehaviour
             enabled = false;
         }
     }
-    
+
     private void LateUpdate()
     {
         if (playerInput == null)
@@ -52,6 +59,7 @@ public class Cursor : MonoBehaviour
                 return;
             
             hoverables[0].Click();
+            playerClick?.Invoke();
         }
     }
 

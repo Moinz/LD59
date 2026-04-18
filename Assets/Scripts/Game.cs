@@ -11,3 +11,15 @@ public class Game : MonoBehaviour
         camera = Camera.main;
     }
 }
+
+public static class GameUtils
+{
+    public static T GetRandomEntry<T>(this T[] array)
+    {
+        if (array == null || array.Length == 0)
+            return default;
+
+        int randomIndex = Random.Range(0, array.Length);
+        return array[randomIndex];
+    }
+}

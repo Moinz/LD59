@@ -75,6 +75,7 @@
 		<relationship name="markers">
 			<destination>{e7501072-5256-4ae9-badf-c0bb3a1f53cb}</destination>
 			<destination>{8a9ee42e-26de-4cd1-b486-a504bb6a6927}</destination>
+			<destination>{4e8f681d-fd9a-489a-87aa-eafb9c3cb809}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{5c4abdf7-bdbd-4cc7-a8c4-934716d20e95}">
@@ -129,10 +130,24 @@
 	</object>
 	<object class="NamedMarker" id="{8a9ee42e-26de-4cd1-b486-a504bb6a6927}">
 		<property name="position">
-			<value>10</value>
+			<value>15</value>
 		</property>
 		<property name="name">
-			<value>Music Body</value>
+			<value>Boss</value>
+		</property>
+		<relationship name="timeline">
+			<destination>{5a7d5cb7-75a7-41ea-aae4-4fed3279c2bc}</destination>
+		</relationship>
+		<relationship name="markerTrack">
+			<destination>{f1a849be-e6bd-4ba3-8d73-3b9a3ffa2d68}</destination>
+		</relationship>
+	</object>
+	<object class="NamedMarker" id="{4e8f681d-fd9a-489a-87aa-eafb9c3cb809}">
+		<property name="position">
+			<value>0</value>
+		</property>
+		<property name="name">
+			<value>Start</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{5a7d5cb7-75a7-41ea-aae4-4fed3279c2bc}</destination>
