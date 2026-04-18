@@ -7,12 +7,10 @@ public class Character : MonoBehaviour
     
     [SerializeField]
     private Sprite[] sprites;
-    
     private void Start()
     {
         PlayerCursor.playerClick += OnPlayerClick;
     }
-    
     private void OnDestroy()
     {
         PlayerCursor.playerClick -= OnPlayerClick;

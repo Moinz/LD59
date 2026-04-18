@@ -1,4 +1,5 @@
 using System;
+using Shapes;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
@@ -7,34 +8,46 @@ public class Goal : MonoBehaviour
     public float _rotationSpeed;
     public float _varianceMagnitude;
 
+    public Disc indicatorDisc;
+    public Vector2 radiusRange = new(1.6f, 0.8f);
+
     [SerializeField]
     private Target _target;
 
     private float _rotationMagnitude = 1f;
-    
-    private void Start()
-    {
-        var rotationSpeedModifier = _rotationSpeed * _varianceMagnitude;
-        _rotationSpeed = Random.Range(_rotationSpeed - rotationSpeedModifier, _rotationSpeed + rotationSpeedModifier);
+    private float currentShrinkDuration;
+    public float shrinkRatio = 0.5f;
+    public float bpm = 120f;
 
-        _target._isHovered.OnChanged += OnHovered;
-    }
+    private bool isAnimating;
+    private float startTime;
 
-    private void OnDestroy()
+    private void OnEnable()
     {
-        _target._isHovered.OnChanged -= OnHovered;
-    }
-
-    private void OnHovered(bool isHovered)
-    {
-        _rotationMagnitude = isHovered ? 2f : 1f;
+        startTime = Time.time;
+        isAnimating = true;
         
-        transform.localScale = isHovered ? Vector3.one * 1.2f : Vector3.one;
+        float beatInterval = 60f / bpm;
+        currentShrinkDuration = beatInterval * shrinkRatio;
+        
+        indicatorDisc.Radius = radiusRange.x;
     }
 
     private void Update()
     {
-        var sign = _rotationMagnitude == 2 ? -1 : 1;
-        transform.Rotate(Vector3.forward, _rotationSpeed * Time.deltaTime * _rotationMagnitude * sign);
+        if (!isAnimating)
+            return;
+        
+        float elapsed = Time.time - startTime;
+        
+        var progress = elapsed / currentShrinkDuration;
+        var newRadius = Mathf.SmoothStep(radiusRange.x, radiusRange.y, progress);
+        indicatorDisc.Radius = newRadius;
+
+        if (progress >= 1.2f)
+        {
+            gameObject.SetActive(false);
+            isAnimating = false;
+        }
     }
 }

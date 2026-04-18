@@ -37,7 +37,6 @@ public class Target : MonoBehaviour
 
     public void Click()
     {
-        Debug.Log("Clicked");
         gameObject.SetActive(false);
         
         if (clickSound.IsNull)
@@ -45,6 +44,4 @@ public class Target : MonoBehaviour
         
         RuntimeManager.PlayOneShot(clickSound);
     }
-    
-    
 }

@@ -38,12 +38,7 @@ public class GoalManager : MonoBehaviour
 
     private void OnBeatUpdated()
     {
-        if (MusicManager.lastBeat == 1)
-        {
-            foreach (var goal in goals)
-            {
-                goal.gameObject.SetActive(true);
-            }
-        }
+        if (MusicManager.lastBeat % 2 == 0)
+            goals.GetRandomEntry().gameObject.SetActive(true);
     }
 }
