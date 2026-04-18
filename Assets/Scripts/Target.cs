@@ -2,7 +2,7 @@ using FMODUnity;
 using Seagulls;
 using UnityEngine;
 
-public class Hoverable : MonoBehaviour
+public class Target : MonoBehaviour
 {
     public Observable<bool> _isHovered = new(false);
 
@@ -11,6 +11,9 @@ public class Hoverable : MonoBehaviour
     
     [SerializeField]
     private EventReference unhoverSound;
+    
+    [SerializeField]
+    private EventReference clickSound;
 
     public void Hover()
     {
@@ -19,7 +22,7 @@ public class Hoverable : MonoBehaviour
         if (hoverSound.IsNull)
             return;
         
-        //RuntimeManager.PlayOneShot(hoverSound);
+        RuntimeManager.PlayOneShot(hoverSound);
     }
     
     public void UnHover()
@@ -29,6 +32,19 @@ public class Hoverable : MonoBehaviour
         if (unhoverSound.IsNull)
             return;
         
-        //RuntimeManager.PlayOneShot(unhoverSound);
+        RuntimeManager.PlayOneShot(unhoverSound);
     }
+
+    public void Click()
+    {
+        Debug.Log("Clicked");
+        gameObject.SetActive(false);
+        
+        if (clickSound.IsNull)
+            return;
+        
+        RuntimeManager.PlayOneShot(clickSound);
+    }
+    
+    
 }

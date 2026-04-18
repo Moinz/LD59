@@ -1,4 +1,3 @@
-using System;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
@@ -8,7 +7,7 @@ public class Goal : MonoBehaviour
     public float _varianceMagnitude;
 
     [SerializeField]
-    private Hoverable _hoverable;
+    private Target _target;
 
     private float _rotationMagnitude = 1f;
     
@@ -17,12 +16,12 @@ public class Goal : MonoBehaviour
         var rotationSpeedModifier = _rotationSpeed * _varianceMagnitude;
         _rotationSpeed = Random.Range(_rotationSpeed - rotationSpeedModifier, _rotationSpeed + rotationSpeedModifier);
 
-        _hoverable._isHovered.OnChanged += OnHovered;
+        _target._isHovered.OnChanged += OnHovered;
     }
 
     private void OnDestroy()
     {
-        _hoverable._isHovered.OnChanged -= OnHovered;
+        _target._isHovered.OnChanged -= OnHovered;
     }
 
     private void OnHovered(bool isHovered)
