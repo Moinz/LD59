@@ -26,12 +26,14 @@ public class Goal : MonoBehaviour
 
     private void OnHovered(bool isHovered)
     {
-        Debug.Log("Hovered: " + isHovered);
         _rotationMagnitude = isHovered ? 2f : 1f;
+        
+        transform.localScale = isHovered ? Vector3.one * 1.2f : Vector3.one;
     }
 
     private void Update()
     {
-        transform.Rotate(Vector3.forward, _rotationSpeed * Time.deltaTime * _rotationMagnitude);
+        var sign = _rotationMagnitude == 2 ? -1 : 1;
+        transform.Rotate(Vector3.forward, _rotationSpeed * Time.deltaTime * _rotationMagnitude * sign);
     }
 }
