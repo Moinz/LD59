@@ -1,0 +1,18 @@
+Assets/Plugins/FMOD/**/*.bundle text eol=lf
+Assets/Plugins/FMOD/**/Info.plist text eol=lf
+
+# Normalize line endings
+* text=auto
+
+# Force specific line endings for certain files
+*.sh text eol=lf
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+
+# Mark binary files
+*.png binary
+*.jpg binary
+*.ico binary
+
+# Exclude files from export/archive
+vendor/* export-ignore
