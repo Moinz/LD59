@@ -484,7 +484,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: morestuff_17
+      name: suush00
       rect:
         serializedVersion: 2
         x: 491
@@ -660,7 +660,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: morestuff_25
+      name: suush02
       rect:
         serializedVersion: 2
         x: 730
@@ -682,7 +682,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: morestuff_26
+      name: buush00
       rect:
         serializedVersion: 2
         x: 1338
@@ -748,7 +748,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: morestuff_29
+      name: buush01
       rect:
         serializedVersion: 2
         x: 2418
@@ -792,7 +792,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: morestuff_31
+      name: suush01
       rect:
         serializedVersion: 2
         x: 169
@@ -924,7 +924,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: morestuff_37
+      name: suush03
       rect:
         serializedVersion: 2
         x: 1050
@@ -1078,7 +1078,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: morestuff_44
+      name: suush05
       rect:
         serializedVersion: 2
         x: 375
@@ -1100,7 +1100,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: morestuff_45
+      name: suush04
       rect:
         serializedVersion: 2
         x: 752
@@ -1298,7 +1298,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: morestuff_54
+      name: suush06
       rect:
         serializedVersion: 2
         x: 962
@@ -1320,7 +1320,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: morestuff_55
+      name: buush02
       rect:
         serializedVersion: 2
         x: 2057
@@ -1364,7 +1364,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: morestuff_57
+      name: suush07
       rect:
         serializedVersion: 2
         x: 237
@@ -1408,7 +1408,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: morestuff_59
+      name: buush03
       rect:
         serializedVersion: 2
         x: 1076
@@ -1430,7 +1430,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: morestuff_60
+      name: suush08
       rect:
         serializedVersion: 2
         x: 603
@@ -1650,7 +1650,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: morestuff_70
+      name: suush09
       rect:
         serializedVersion: 2
         x: 604
@@ -1870,7 +1870,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: morestuff_80
+      name: suush10
       rect:
         serializedVersion: 2
         x: 219
@@ -2024,7 +2024,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: morestuff_87
+      name: suush11
       rect:
         serializedVersion: 2
         x: 488
@@ -2244,7 +2244,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: morestuff_97
+      name: suush12
       rect:
         serializedVersion: 2
         x: 794
@@ -2354,7 +2354,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: morestuff_102
+      name: buush05
       rect:
         serializedVersion: 2
         x: 1053
@@ -2574,7 +2574,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: morestuff_112
+      name: buush04
       rect:
         serializedVersion: 2
         x: 1937
@@ -2723,12 +2723,17 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
+      buush00: 1445740689
+      buush01: 864732691
+      buush02: -110826336
+      buush03: -955387865
+      buush04: -948524374
+      buush05: -558286038
       morestuff_0: -844259775
       morestuff_1: -1768193599
       morestuff_10: 788939429
       morestuff_100: -1357353479
       morestuff_101: 1799368315
-      morestuff_102: -558286038
       morestuff_103: -1196193074
       morestuff_104: 1657739755
       morestuff_105: -1141883369
@@ -2739,7 +2744,6 @@ TextureImporter:
       morestuff_11: 1089687514
       morestuff_110: 1155809942
       morestuff_111: -1052443617
-      morestuff_112: -948524374
       morestuff_113: -2057312815
       morestuff_114: -1252369757
       morestuff_115: 992032903
@@ -2750,7 +2754,6 @@ TextureImporter:
       morestuff_14: -1915594038
       morestuff_15: -587479138
       morestuff_16: 1605761896
-      morestuff_17: 2104191099
       morestuff_18: -932543803
       morestuff_19: 195722013
       morestuff_2: 377301431
@@ -2759,20 +2762,15 @@ TextureImporter:
       morestuff_22: 1878033619
       morestuff_23: -1281758409
       morestuff_24: -1217656361
-      morestuff_25: -1579370236
-      morestuff_26: 1445740689
       morestuff_27: -809325981
       morestuff_28: 186008823
-      morestuff_29: 864732691
       morestuff_3: 36178084
       morestuff_30: -176187924
-      morestuff_31: 28785931
       morestuff_32: 1699276079
       morestuff_33: 801894957
       morestuff_34: -2035813528
       morestuff_35: -936033143
       morestuff_36: 1155022552
-      morestuff_37: -173451403
       morestuff_38: 1411179225
       morestuff_39: 1912713224
       morestuff_4: 744077261
@@ -2780,8 +2778,6 @@ TextureImporter:
       morestuff_41: -1243346559
       morestuff_42: 586224514
       morestuff_43: -1714250642
-      morestuff_44: -1813595596
-      morestuff_45: 833867798
       morestuff_46: -1896140091
       morestuff_47: 850245448
       morestuff_48: -991133105
@@ -2791,14 +2787,9 @@ TextureImporter:
       morestuff_51: -1332666376
       morestuff_52: -1345385051
       morestuff_53: -564706460
-      morestuff_54: -650135544
-      morestuff_55: -110826336
       morestuff_56: -1392413059
-      morestuff_57: 801917959
       morestuff_58: -858390742
-      morestuff_59: -955387865
       morestuff_6: 699963973
-      morestuff_60: 1369081364
       morestuff_61: 493525113
       morestuff_62: -1728275165
       morestuff_63: -1148966605
@@ -2809,7 +2800,6 @@ TextureImporter:
       morestuff_68: -204542670
       morestuff_69: 809411648
       morestuff_7: 490892298
-      morestuff_70: -1502402841
       morestuff_71: -1237708358
       morestuff_72: 216870297
       morestuff_73: -1850240531
@@ -2820,14 +2810,12 @@ TextureImporter:
       morestuff_78: 113596455
       morestuff_79: -1509955537
       morestuff_8: 863691093
-      morestuff_80: 1075614279
       morestuff_81: 1602585271
       morestuff_82: 1777405387
       morestuff_83: -1571504309
       morestuff_84: 1479189239
       morestuff_85: 176252814
       morestuff_86: 1372122719
-      morestuff_87: -646089152
       morestuff_88: 504150015
       morestuff_89: 1265256010
       morestuff_9: 1534499543
@@ -2838,9 +2826,21 @@ TextureImporter:
       morestuff_94: 1558268447
       morestuff_95: -1854526351
       morestuff_96: -204820771
-      morestuff_97: -532271006
       morestuff_98: -1665156575
       morestuff_99: -429881799
+      suush00: 2104191099
+      suush01: 28785931
+      suush02: -1579370236
+      suush03: -173451403
+      suush04: 833867798
+      suush05: -1813595596
+      suush06: -650135544
+      suush07: 801917959
+      suush08: 1369081364
+      suush09: -1502402841
+      suush10: 1075614279
+      suush11: -646089152
+      suush12: -532271006
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
