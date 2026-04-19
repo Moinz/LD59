@@ -130,6 +130,6 @@ public class Crow : MonoBehaviour
 
     private void Defeat()
     {
-        
+        Deactivate();
     }
 }
