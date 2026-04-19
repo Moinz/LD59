@@ -3,13 +3,12 @@ using System.Runtime.InteropServices;
 using FMOD;
 using FMOD.Studio;
 using FMODUnity;
+using TriInspector;
 using UnityEngine;
 using Debug = UnityEngine.Debug;
 
 public class MusicManager : MonoBehaviour
 {
-    public static MusicManager Instance;
-    
     [SerializeField]
     private EventReference music;
     private static EventInstance musicInstance;
@@ -30,17 +29,19 @@ public class MusicManager : MonoBehaviour
     public static int lastBeat = 0;
     public static string lastMarkerString = null;
     
+    private bool _isPlaying;
+    
 
     private void Awake()
     {
-        Instance = this;
-        
         musicInstance = RuntimeManager.CreateInstance(music);
-        musicInstance.start();
+        Game.OnGameStart += StartGame;
     }
 
-    private void Start()
+    private void StartGame()
     {
+        musicInstance.start();
+        
         timelineInfo = new TimelineInfo();
         beatCallback = BeatEventCallback;
         
@@ -51,6 +52,8 @@ public class MusicManager : MonoBehaviour
         musicInstance.getDescription(out descriptionCallback);
         descriptionCallback.getLength(out int length);
         timelineInfo.songLength = length;
+        
+        _isPlaying = true;
     }
 
     private void OnDestroy()
@@ -64,6 +67,9 @@ public class MusicManager : MonoBehaviour
 
     private void Update()
     {
+        if (!_isPlaying)
+            return;
+        
         musicInstance.getTimelinePosition(out timelineInfo.currentPosition);
         
         if (lastMarkerString != timelineInfo.lastMarker)
@@ -78,15 +84,13 @@ public class MusicManager : MonoBehaviour
             beatUpdated?.Invoke();
         }
     }
-    
-#if UNITY_EDITOR
-    
-    private void OnGUI()
+
+    [Button]
+    private void TestMarker(string marker)
     {
-        GUILayout.Box($"Current Beat = {timelineInfo.currentBeat}, Last Marker = {(string)timelineInfo.lastMarker}");
+        lastMarkerString = marker;
+        markerUpdated?.Invoke();
     }
-    
-#endif
 
     [AOT.MonoPInvokeCallback(typeof(EVENT_CALLBACK))]
     static RESULT BeatEventCallback(EVENT_CALLBACK_TYPE type, IntPtr instancePtr, IntPtr parameterPtr)

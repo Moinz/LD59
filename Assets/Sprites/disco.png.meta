@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: 3b5a3a83d7f95804a8b08184a5fda66b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4195959552909295376
+    second: disco_0
+  - first:
+      213: -8077182647253964424
+    second: disco_1
+  - first:
+      213: 4582334548581483331
+    second: disco_2
+  - first:
+      213: -2665139420167446157
+    second: disco_3
+  - first:
+      213: 8191422158390723337
+    second: disco_4
+  - first:
+      213: -996901351560510614
+    second: disco_5
+  - first:
+      213: -4493601354333029959
+    second: disco_6
+  - first:
+      213: -7697310180502624637
+    second: disco_7
+  - first:
+      213: -3270876880690516648
+    second: disco_8
+  - first:
+      213: -4294107369253705886
+    second: disco_9
+  - first:
+      213: 3989015839482776183
+    second: disco_10
+  - first:
+      213: -6465402646417786803
+    second: disco_11
+  - first:
+      213: 4756578326964338937
+    second: disco_12
+  - first:
+      213: 2533446796627779022
+    second: disco_13
+  - first:
+      213: 7451166364711393747
+    second: disco_14
+  - first:
+      213: 3560863327292448513
+    second: disco_15
+  - first:
+      213: -8950661874005600819
+    second: disco_16
+  - first:
+      213: 7776691402543646863
+    second: disco_17
+  - first:
+      213: 5350397762528363435
+    second: disco_18
+  - first:
+      213: -7561544956622428974
+    second: disco_19
+  - first:
+      213: -3095754976254987442
+    second: disco_20
+  - first:
+      213: 5558196529682446357
+    second: disco_21
+  - first:
+      213: -6357841518851697814
+    second: disco_22
+  - first:
+      213: -3838941143640425621
+    second: disco_23
+  - first:
+      213: 2237320556572042242
+    second: disco_24
+  - first:
+      213: 348069980204467386
+    second: disco_25
+  - first:
+      213: -8220776484687273908
+    second: disco_26
+  - first:
+      213: 8289903319097133331
+    second: disco_27
+  - first:
+      213: -8451859429211877321
+    second: disco_28
+  - first:
+      213: 8690991535612727378
+    second: disco_29
+  - first:
+      213: 285975715913664566
+    second: disco_30
+  - first:
+      213: 4315448239578860635
+    second: disco_31
+  - first:
+      213: 3881621643297962355
+    second: disco_32
+  - first:
+      213: 9167797776143071546
+    second: disco_33
+  - first:
+      213: -5656342999104545289
+    second: disco_34
+  - first:
+      213: -3452716977429675880
+    second: disco_35
+  - first:
+      213: -2211354070613127291
+    second: disco_36
+  - first:
+      213: 6106645804374040800
+    second: disco_37
+  - first:
+      213: -5758305964866720511
+    second: disco_38
+  - first:
+      213: 1423562135499543359
+    second: disco_39
+  - first:
+      213: -6241195176684792180
+    second: disco_40
+  - first:
+      213: 8731530238900619722
+    second: disco_41
+  - first:
+      213: -4301352218391351397
+    second: disco_42
+  - first:
+      213: -7524138630086369760
+    second: disco_43
+  - first:
+      213: 305969492168269791
+    second: disco_44
+  - first:
+      213: 8239010861210309758
+    second: disco_45
+  - first:
+      213: -7628530647471746123
+    second: disco_46
+  - first:
+      213: -7425718737562071455
+    second: disco_47
+  - first:
+      213: 5319646159471357894
+    second: disco_48
+  - first:
+      213: -1314053913238276934
+    second: disco_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: disco_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2342
+        width: 22
+        height: 497
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f04fec8405f4c5c0800000000000000
+      internalID: -4195959552909295376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_1
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 2782
+        width: 7
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8796a745d2518ef80800000000000000
+      internalID: -8077182647253964424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_2
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1800
+        width: 186
+        height: 960
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34303326ef8b79f30800000000000000
+      internalID: 4582334548581483331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_3
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 2753
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371670061d5830bd0800000000000000
+      internalID: -2665139420167446157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _disco4
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2180
+        width: 1335
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90384249d07cda170800000000000000
+      internalID: 8191422158390723337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_5
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 2600
+        width: 75
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a630128a08b4a22f0800000000000000
+      internalID: -996901351560510614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_6
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 2475
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9f3c8506583a1c0800000000000000
+      internalID: -4493601354333029959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_7
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 2474
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386a4254c29ad2590800000000000000
+      internalID: -7697310180502624637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_8
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 2474
+        width: 38
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d676e8ec28b92d0800000000000000
+      internalID: -3270876880690516648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_9
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 2475
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267ee3c49144864c0800000000000000
+      internalID: -4294107369253705886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_10
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 2477
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a07c375c4db5730800000000000000
+      internalID: 3989015839482776183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_11
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 2476
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48b56a5c864646a0800000000000000
+      internalID: -6465402646417786803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_12
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 2476
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0080579c2c20240800000000000000
+      internalID: 4756578326964338937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_13
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 2477
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd9952507c982320800000000000000
+      internalID: 2533446796627779022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_14
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 2477
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d916faa45cd76760800000000000000
+      internalID: 7451166364711393747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_15
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 2477
+        width: 69
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f5bf4745aba6130800000000000000
+      internalID: 3560863327292448513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_16
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 2477
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5934fb27cd8c380800000000000000
+      internalID: -8950661874005600819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_17
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 2478
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88c270c0ab5ceb60800000000000000
+      internalID: 7776691402543646863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_18
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 2477
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba34c8ada6e604a40800000000000000
+      internalID: 5350397762528363435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_19
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 2478
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4af5bbceeff0790800000000000000
+      internalID: -7561544956622428974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_20
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 2325
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e437ca8404ba905d0800000000000000
+      internalID: -3095754976254987442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_21
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 2138
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518f78f8b4ea22d40800000000000000
+      internalID: 5558196529682446357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_22
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 2037
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a635d9ae2d864c7a0800000000000000
+      internalID: -6357841518851697814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_23
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 2071
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b3ea39e5759bac0800000000000000
+      internalID: -3838941143640425621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_24
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 2046
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204e72f313f8c0f10800000000000000
+      internalID: 2237320556572042242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_25
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 2000
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab480178dc794d400800000000000000
+      internalID: 348069980204467386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_26
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 1949
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40a45cb75fe9ed80800000000000000
+      internalID: -8220776484687273908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _disco3
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1565
+        width: 1234
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319cd1d9527ab0370800000000000000
+      internalID: 8289903319097133331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_28
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 1904
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7305a4601a6f4ba80800000000000000
+      internalID: -8451859429211877321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_29
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1524
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2509f1a31ca9c9870800000000000000
+      internalID: 8690991535612727378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_30
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 1466
+        width: 124
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6380c61066df7f300800000000000000
+      internalID: 285975715913664566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _disco02
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 910
+        width: 1150
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ccea64f4d83eb30800000000000000
+      internalID: 4315448239578860635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_32
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1421
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3793e31a15a4ed530800000000000000
+      internalID: 3881621643297962355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_33
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 1416
+        width: 6
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39bf9b118f8a3f70800000000000000
+      internalID: 9167797776143071546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _disco01
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 188
+        width: 653
+        height: 1227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd1b9ac202a081b0800000000000000
+      internalID: -5656342999104545289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_35
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 1366
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890085ac33c7510d0800000000000000
+      internalID: -3452716977429675880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_36
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 1350
+        width: 9
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f8d746031bf41e0800000000000000
+      internalID: -2211354070613127291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_37
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1300
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e028d2310a2fb450800000000000000
+      internalID: 6106645804374040800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_38
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 1225
+        width: 92
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d2b18db336610b0800000000000000
+      internalID: -5758305964866720511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_39
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 1298
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33952a483281c310800000000000000
+      internalID: 1423562135499543359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_40
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1182
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8652d7dd02d269a0800000000000000
+      internalID: -6241195176684792180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _disco00
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 131
+        width: 1102
+        height: 706
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9c04b9d70ac2970800000000000000
+      internalID: 8731530238900619722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_42
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 880
+        width: 59
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fe1f862f68e44c0800000000000000
+      internalID: -4301352218391351397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_43
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 376
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e58e0d7c3e49790800000000000000
+      internalID: -7524138630086369760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_44
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 599
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfdbccc1a50f3400800000000000000
+      internalID: 305969492168269791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_45
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 302
+        width: 21
+        height: 558
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e749603e9b8d65270800000000000000
+      internalID: 8239010861210309758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b314473bc3022690800000000000000
+      internalID: -7628530647471746123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e86adb62c82f890800000000000000
+      internalID: -7425718737562071455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_48
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 25
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfaf025ffd23d940800000000000000
+      internalID: 5319646159471357894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disco_49
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab478b59dea83cde0800000000000000
+      internalID: -1314053913238276934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 12552aab2301b3646ac3303e20d31688
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      _disco00: 8731530238900619722
+      _disco01: -5656342999104545289
+      _disco02: 4315448239578860635
+      _disco3: 8289903319097133331
+      _disco4: 8191422158390723337
+      disco_0: -4195959552909295376
+      disco_1: -8077182647253964424
+      disco_10: 3989015839482776183
+      disco_11: -6465402646417786803
+      disco_12: 4756578326964338937
+      disco_13: 2533446796627779022
+      disco_14: 7451166364711393747
+      disco_15: 3560863327292448513
+      disco_16: -8950661874005600819
+      disco_17: 7776691402543646863
+      disco_18: 5350397762528363435
+      disco_19: -7561544956622428974
+      disco_2: 4582334548581483331
+      disco_20: -3095754976254987442
+      disco_21: 5558196529682446357
+      disco_22: -6357841518851697814
+      disco_23: -3838941143640425621
+      disco_24: 2237320556572042242
+      disco_25: 348069980204467386
+      disco_26: -8220776484687273908
+      disco_28: -8451859429211877321
+      disco_29: 8690991535612727378
+      disco_3: -2665139420167446157
+      disco_30: 285975715913664566
+      disco_32: 3881621643297962355
+      disco_33: 9167797776143071546
+      disco_35: -3452716977429675880
+      disco_36: -2211354070613127291
+      disco_37: 6106645804374040800
+      disco_38: -5758305964866720511
+      disco_39: 1423562135499543359
+      disco_40: -6241195176684792180
+      disco_42: -4301352218391351397
+      disco_43: -7524138630086369760
+      disco_44: 305969492168269791
+      disco_45: 8239010861210309758
+      disco_46: -7628530647471746123
+      disco_47: -7425718737562071455
+      disco_48: 5319646159471357894
+      disco_49: -1314053913238276934
+      disco_5: -996901351560510614
+      disco_6: -4493601354333029959
+      disco_7: -7697310180502624637
+      disco_8: -3270876880690516648
+      disco_9: -4294107369253705886
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,4 +1,6 @@
+using System;
 using UnityEngine;
+using Random = UnityEngine.Random;
 
 public class Game : MonoBehaviour
 {
@@ -17,9 +19,16 @@ public class Game : MonoBehaviour
 
     public Camera camera;
 
+    public static event Action OnGameStart;
+
     private void Awake()
     {
         camera = Camera.main;
+    }
+
+    public void StartDancing()
+    {
+        OnGameStart?.Invoke();
     }
 }
 

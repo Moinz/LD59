@@ -1,0 +1,2522 @@
+fileFormatVersion: 2
+guid: a680d4db2a92fd14ba5ab5ff820ffb26
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1397952457837621815
+    second: endOcean_0
+  - first:
+      213: 7798362779991127599
+    second: endOcean_1
+  - first:
+      213: -293298683468733162
+    second: endOcean_2
+  - first:
+      213: -2728442287561334426
+    second: endOcean_3
+  - first:
+      213: 3799496418220284089
+    second: endOcean_4
+  - first:
+      213: 7489804535490498240
+    second: endOcean_5
+  - first:
+      213: -8484025342123920685
+    second: endOcean_6
+  - first:
+      213: 8714450591422523971
+    second: endOcean_7
+  - first:
+      213: -5451624999325373428
+    second: endOcean_8
+  - first:
+      213: 6466927769776426494
+    second: endOcean_9
+  - first:
+      213: 688037650715579678
+    second: endOcean_10
+  - first:
+      213: 836315492286311581
+    second: endOcean_11
+  - first:
+      213: 1241118869525180658
+    second: endOcean_12
+  - first:
+      213: -2081965355318588595
+    second: endOcean_13
+  - first:
+      213: 7145860288045166956
+    second: endOcean_14
+  - first:
+      213: -5207794679554462949
+    second: endOcean_15
+  - first:
+      213: -8896779466245468327
+    second: endOcean_16
+  - first:
+      213: -7988693300722725891
+    second: endOcean_17
+  - first:
+      213: 722151664054132010
+    second: endOcean_18
+  - first:
+      213: 7827095407203315145
+    second: endOcean_19
+  - first:
+      213: 8073124714836212302
+    second: endOcean_20
+  - first:
+      213: 4309394502395876607
+    second: endOcean_21
+  - first:
+      213: 6108730838534867585
+    second: endOcean_22
+  - first:
+      213: 714672990988565520
+    second: endOcean_23
+  - first:
+      213: 6833345843178001325
+    second: endOcean_24
+  - first:
+      213: 9011686415764989366
+    second: endOcean_25
+  - first:
+      213: 4420985330165074542
+    second: endOcean_26
+  - first:
+      213: 5837215726173739087
+    second: endOcean_27
+  - first:
+      213: 7638728633773602759
+    second: endOcean_28
+  - first:
+      213: -1485930199636188076
+    second: endOcean_29
+  - first:
+      213: 8959583712490659936
+    second: endOcean_30
+  - first:
+      213: -4532458507704026113
+    second: endOcean_31
+  - first:
+      213: -4361969283132208843
+    second: endOcean_32
+  - first:
+      213: -6335297149762629671
+    second: endOcean_33
+  - first:
+      213: -8396155676680364952
+    second: endOcean_34
+  - first:
+      213: 5846759034976314078
+    second: endOcean_35
+  - first:
+      213: 2956006935237071469
+    second: endOcean_36
+  - first:
+      213: 742925863150538195
+    second: endOcean_37
+  - first:
+      213: 1333898938388321258
+    second: endOcean_38
+  - first:
+      213: 5572190089696999276
+    second: endOcean_39
+  - first:
+      213: 1815453144439899156
+    second: endOcean_40
+  - first:
+      213: 6562401230233694221
+    second: endOcean_41
+  - first:
+      213: 172134275273474184
+    second: endOcean_42
+  - first:
+      213: -4024152848586851604
+    second: endOcean_43
+  - first:
+      213: -52205365117590136
+    second: endOcean_44
+  - first:
+      213: -5433467510402476646
+    second: endOcean_45
+  - first:
+      213: -8517217393145303869
+    second: endOcean_46
+  - first:
+      213: -6603816960014310942
+    second: endOcean_47
+  - first:
+      213: -4302645405472668711
+    second: endOcean_48
+  - first:
+      213: 986055569123479261
+    second: endOcean_49
+  - first:
+      213: 8272108870777855850
+    second: endOcean_50
+  - first:
+      213: 8633016045695752549
+    second: endOcean_51
+  - first:
+      213: -5286500686150615387
+    second: endOcean_52
+  - first:
+      213: -9069156233100677765
+    second: endOcean_53
+  - first:
+      213: 5032939615084402658
+    second: endOcean_54
+  - first:
+      213: 2476955890774227337
+    second: endOcean_55
+  - first:
+      213: 1768094112080698393
+    second: endOcean_56
+  - first:
+      213: 4222189347057519572
+    second: endOcean_57
+  - first:
+      213: 6056034853745809733
+    second: endOcean_58
+  - first:
+      213: -8578647995964963393
+    second: endOcean_59
+  - first:
+      213: 5090338698781774062
+    second: endOcean_60
+  - first:
+      213: 7209202850669415329
+    second: endOcean_61
+  - first:
+      213: -1873009090205207992
+    second: endOcean_62
+  - first:
+      213: 2769765386612428201
+    second: endOcean_63
+  - first:
+      213: 775985750835035925
+    second: endOcean_64
+  - first:
+      213: -7953954971261912512
+    second: endOcean_65
+  - first:
+      213: -1541576404692013051
+    second: endOcean_66
+  - first:
+      213: -1783012911224782729
+    second: endOcean_67
+  - first:
+      213: -2380368632716806264
+    second: endOcean_68
+  - first:
+      213: 3817121280489006941
+    second: endOcean_69
+  - first:
+      213: 6810927916780701174
+    second: endOcean_70
+  - first:
+      213: -4408769596745530679
+    second: endOcean_71
+  - first:
+      213: 5089308137771328987
+    second: endOcean_72
+  - first:
+      213: -4668787506330185185
+    second: endOcean_73
+  - first:
+      213: 1029665412164209267
+    second: endOcean_74
+  - first:
+      213: -8585470918649266860
+    second: endOcean_75
+  - first:
+      213: 4131047400729375101
+    second: endOcean_76
+  - first:
+      213: 5014147426960310933
+    second: endOcean_77
+  - first:
+      213: 8078980139201831594
+    second: endOcean_78
+  - first:
+      213: 1977216040634329737
+    second: endOcean_79
+  - first:
+      213: -8051622239226972560
+    second: endOcean_80
+  - first:
+      213: -1083882437659268800
+    second: endOcean_81
+  - first:
+      213: -7360126040560566633
+    second: endOcean_82
+  - first:
+      213: 1383304812358000107
+    second: endOcean_83
+  - first:
+      213: -93055864122019380
+    second: endOcean_84
+  - first:
+      213: 3657634656592316967
+    second: endOcean_85
+  - first:
+      213: -3075692587324470423
+    second: endOcean_86
+  - first:
+      213: 5496795898838099136
+    second: endOcean_87
+  - first:
+      213: -7691192095393254323
+    second: endOcean_88
+  - first:
+      213: -6869416665075559413
+    second: endOcean_89
+  - first:
+      213: -1930752318929261593
+    second: endOcean_90
+  - first:
+      213: -6557376852187067221
+    second: endOcean_91
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: endOcean_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2073
+        width: 6
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732bb4e8a56866310800000000000000
+      internalID: 1397952457837621815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1094
+        width: 1540
+        height: 1066
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26bff281a9593c60800000000000000
+      internalID: 7798362779991127599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_2
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1454
+        width: 1320
+        height: 653
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615a1ceb66efdebf0800000000000000
+      internalID: -293298683468733162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_3
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 1920
+        width: 56
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661a0c30230a22ad0800000000000000
+      internalID: -2728442287561334426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_4
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 2018
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8936d9cd58ab430800000000000000
+      internalID: 3799496418220284089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1883
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce4507da8121f760800000000000000
+      internalID: 7489804535490498240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_6
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 1874
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2ba41d6efa24a80800000000000000
+      internalID: -8484025342123920685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_7
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1805
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34aae6a44a2ffe870800000000000000
+      internalID: 8714450591422523971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_8
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 1769
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c629272ffe754b0800000000000000
+      internalID: -5451624999325373428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_9
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 1599
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd02a91b842fb950800000000000000
+      internalID: 6466927769776426494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_10
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1470
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e151ff219966c8900800000000000000
+      internalID: 688037650715579678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_11
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1462
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ca1ed52803b9b00800000000000000
+      internalID: 836315492286311581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_12
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1453
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0351e3907593110800000000000000
+      internalID: 1241118869525180658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1385
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bc0914a8f5b13e0800000000000000
+      internalID: -2081965355318588595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_14
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1281
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61b08352123b2360800000000000000
+      internalID: 7145860288045166956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_15
+      rect:
+        serializedVersion: 2
+        x: 2637
+        y: 1276
+        width: 53
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bacfdb4523ab7b0800000000000000
+      internalID: -5207794679554462949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 311
+        width: 2726
+        height: 911
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f037d663a488480800000000000000
+      internalID: -8896779466245468327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_17
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1209
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb01e6d4c5722190800000000000000
+      internalID: -7988693300722725891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_18
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1199
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d57e1cc19950a00800000000000000
+      internalID: 722151664054132010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_19
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 1178
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cde1799dcd6f9c60800000000000000
+      internalID: 7827095407203315145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_20
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 652
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a3d37a720890070800000000000000
+      internalID: 8073124714836212302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_21
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 274
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4d350c77b0ecb30800000000000000
+      internalID: 4309394502395876607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_22
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 288
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a485b055296c450800000000000000
+      internalID: 6108730838534867585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_23
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 269
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c707e7c470be900800000000000000
+      internalID: 714672990988565520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_24
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 245
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3540af6dbe4de50800000000000000
+      internalID: 6833345843178001325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_25
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 199
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5a2e69c01ff0d70800000000000000
+      internalID: 9011686415764989366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_26
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 164
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ac3b10cbe7a5d30800000000000000
+      internalID: 4420985330165074542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_27
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 114
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48d8eba6c4f10150800000000000000
+      internalID: 5837215726173739087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_28
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 116
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c73eaf7837320a60800000000000000
+      internalID: 7638728633773602759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_29
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 61
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454e8a13b5ae06be0800000000000000
+      internalID: -1485930199636188076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_30
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 24
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060a166aae5d65c70800000000000000
+      internalID: 8959583712490659936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_31
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 4
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbba1150097911c0800000000000000
+      internalID: -4532458507704026113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_32
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5394db53c0c2773c0800000000000000
+      internalID: -4361969283132208843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_33
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 0
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df8ad1eec08418a0800000000000000
+      internalID: -6335297149762629671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_34
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 0
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c569495ecda7b80800000000000000
+      internalID: -8396155676680364952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_35
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 5
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2a1176d5cd32150800000000000000
+      internalID: 5846759034976314078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_36
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 0
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62956065a8d50920800000000000000
+      internalID: 2956006935237071469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_37
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddc987e2276f4a00800000000000000
+      internalID: 742925863150538195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_38
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 4
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae318e46406f28210800000000000000
+      internalID: 1333898938388321258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_39
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 0
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6777552d55645d40800000000000000
+      internalID: 5572190089696999276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_40
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 0
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414c4b42409c13910800000000000000
+      internalID: 1815453144439899156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_41
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d007aa95625521b50800000000000000
+      internalID: 6562401230233694221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_42
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880485b163b836200800000000000000
+      internalID: 172134275273474184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_43
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 4
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceaba1a1e465728c0800000000000000
+      internalID: -4024152848586851604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_44
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 3
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885ebcc3f77864ff0800000000000000
+      internalID: -52205365117590136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_45
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9595d746127894b0800000000000000
+      internalID: -5433467510402476646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_46
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 2
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ccabc638e3ccc980800000000000000
+      internalID: -8517217393145303869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_47
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 0
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1a5a0a6778a54a0800000000000000
+      internalID: -6603816960014310942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_48
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 0
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3c554dccee944c0800000000000000
+      internalID: -4302645405472668711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_49
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 0
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde8666d05c2fad00800000000000000
+      internalID: 986055569123479261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_50
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 3
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f5212c03f6cc270800000000000000
+      internalID: 8272108870777855850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_51
+      rect:
+        serializedVersion: 2
+        x: 2969
+        y: 0
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56951f79a52aec770800000000000000
+      internalID: 8633016045695752549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_52
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae322192a392a6b0800000000000000
+      internalID: -5286500686150615387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_53
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7da389d472e32280800000000000000
+      internalID: -9069156233100677765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_54
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7d81d0ae798d540800000000000000
+      internalID: 5032939615084402658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_55
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 0
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989b8e9524aef5220800000000000000
+      internalID: 2476955890774227337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_56
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 0
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c97082a38898810800000000000000
+      internalID: 1768094112080698393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_57
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db4dcd47da389a30800000000000000
+      internalID: 4222189347057519572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_58
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54957ecfc9b5b0450800000000000000
+      internalID: 6056034853745809733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_59
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5446b691582f880800000000000000
+      internalID: -8578647995964963393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_60
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 0
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0df47a31484a640800000000000000
+      internalID: 5090338698781774062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_61
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 0
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab42e3fbcb3c0460800000000000000
+      internalID: 7209202850669415329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_62
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 0
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842bd35f72cb106e0800000000000000
+      internalID: -1873009090205207992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_63
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 0
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9adc43cb1fe207620800000000000000
+      internalID: 2769765386612428201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_64
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f7945ddead4ca00800000000000000
+      internalID: 775985750835035925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_65
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 0
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a3b727810ed9190800000000000000
+      internalID: -7953954971261912512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_66
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50075347d683b9ae0800000000000000
+      internalID: -1541576404692013051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_67
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770038c34377147e0800000000000000
+      internalID: -1783012911224782729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_68
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887be6c175b37fed0800000000000000
+      internalID: -2380368632716806264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_69
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 0
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57a124a49329f430800000000000000
+      internalID: 3817121280489006941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_70
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 0
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5418ebad6458e50800000000000000
+      internalID: 6810927916780701174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_71
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2c0711967e0d2c0800000000000000
+      internalID: -4408769596745530679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_72
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd56d5879cad0a640800000000000000
+      internalID: 5089308137771328987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_73
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f125861df72253fb0800000000000000
+      internalID: -4668787506330185185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_74
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 0
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37acd89ac3b1a4e00800000000000000
+      internalID: 1029665412164209267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_75
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45db670ffa74ad880800000000000000
+      internalID: -8585470918649266860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_76
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 0
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7176c649bd645930800000000000000
+      internalID: 4131047400729375101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_77
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 0
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592886bc484d59540800000000000000
+      internalID: 5014147426960310933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_78
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 0
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2af80e1ad4e1070800000000000000
+      internalID: 8078980139201831594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_79
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 0
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98aa632638b707b10800000000000000
+      internalID: 1977216040634329737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_80
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 0
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076bd359b34e24090800000000000000
+      internalID: -8051622239226972560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_81
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 0
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049e8056aa645f0f0800000000000000
+      internalID: -1083882437659268800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_82
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 0
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ef84a9c549bd990800000000000000
+      internalID: -7360126040560566633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_83
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 0
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beddfa4d56c723310800000000000000
+      internalID: 1383304812358000107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_84
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc17db24f2665bef0800000000000000
+      internalID: -93055864122019380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_85
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ac758575782c230800000000000000
+      internalID: 3657634656592316967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_86
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 0
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b093633e1f055d0800000000000000
+      internalID: -3075692587324470423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_87
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 0
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4a1192fba884c40800000000000000
+      internalID: 5496795898838099136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_88
+      rect:
+        serializedVersion: 2
+        x: 2668
+        y: 0
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44fac6f985634590800000000000000
+      internalID: -7691192095393254323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_89
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 0
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04d50850fdeaa0a0800000000000000
+      internalID: -6869416665075559413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_90
+      rect:
+        serializedVersion: 2
+        x: 2913
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eba5f8def69435e0800000000000000
+      internalID: -1930752318929261593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endOcean_91
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 0
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac4503de748ff4a0800000000000000
+      internalID: -6557376852187067221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7cc34df816ab7524b9fbc71fafcda743
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      endOcean_0: 1397952457837621815
+      endOcean_1: 7798362779991127599
+      endOcean_10: 688037650715579678
+      endOcean_11: 836315492286311581
+      endOcean_12: 1241118869525180658
+      endOcean_13: -2081965355318588595
+      endOcean_14: 7145860288045166956
+      endOcean_15: -5207794679554462949
+      endOcean_16: -8896779466245468327
+      endOcean_17: -7988693300722725891
+      endOcean_18: 722151664054132010
+      endOcean_19: 7827095407203315145
+      endOcean_2: -293298683468733162
+      endOcean_20: 8073124714836212302
+      endOcean_21: 4309394502395876607
+      endOcean_22: 6108730838534867585
+      endOcean_23: 714672990988565520
+      endOcean_24: 6833345843178001325
+      endOcean_25: 9011686415764989366
+      endOcean_26: 4420985330165074542
+      endOcean_27: 5837215726173739087
+      endOcean_28: 7638728633773602759
+      endOcean_29: -1485930199636188076
+      endOcean_3: -2728442287561334426
+      endOcean_30: 8959583712490659936
+      endOcean_31: -4532458507704026113
+      endOcean_32: -4361969283132208843
+      endOcean_33: -6335297149762629671
+      endOcean_34: -8396155676680364952
+      endOcean_35: 5846759034976314078
+      endOcean_36: 2956006935237071469
+      endOcean_37: 742925863150538195
+      endOcean_38: 1333898938388321258
+      endOcean_39: 5572190089696999276
+      endOcean_4: 3799496418220284089
+      endOcean_40: 1815453144439899156
+      endOcean_41: 6562401230233694221
+      endOcean_42: 172134275273474184
+      endOcean_43: -4024152848586851604
+      endOcean_44: -52205365117590136
+      endOcean_45: -5433467510402476646
+      endOcean_46: -8517217393145303869
+      endOcean_47: -6603816960014310942
+      endOcean_48: -4302645405472668711
+      endOcean_49: 986055569123479261
+      endOcean_5: 7489804535490498240
+      endOcean_50: 8272108870777855850
+      endOcean_51: 8633016045695752549
+      endOcean_52: -5286500686150615387
+      endOcean_53: -9069156233100677765
+      endOcean_54: 5032939615084402658
+      endOcean_55: 2476955890774227337
+      endOcean_56: 1768094112080698393
+      endOcean_57: 4222189347057519572
+      endOcean_58: 6056034853745809733
+      endOcean_59: -8578647995964963393
+      endOcean_6: -8484025342123920685
+      endOcean_60: 5090338698781774062
+      endOcean_61: 7209202850669415329
+      endOcean_62: -1873009090205207992
+      endOcean_63: 2769765386612428201
+      endOcean_64: 775985750835035925
+      endOcean_65: -7953954971261912512
+      endOcean_66: -1541576404692013051
+      endOcean_67: -1783012911224782729
+      endOcean_68: -2380368632716806264
+      endOcean_69: 3817121280489006941
+      endOcean_7: 8714450591422523971
+      endOcean_70: 6810927916780701174
+      endOcean_71: -4408769596745530679
+      endOcean_72: 5089308137771328987
+      endOcean_73: -4668787506330185185
+      endOcean_74: 1029665412164209267
+      endOcean_75: -8585470918649266860
+      endOcean_76: 4131047400729375101
+      endOcean_77: 5014147426960310933
+      endOcean_78: 8078980139201831594
+      endOcean_79: 1977216040634329737
+      endOcean_8: -5451624999325373428
+      endOcean_80: -8051622239226972560
+      endOcean_81: -1083882437659268800
+      endOcean_82: -7360126040560566633
+      endOcean_83: 1383304812358000107
+      endOcean_84: -93055864122019380
+      endOcean_85: 3657634656592316967
+      endOcean_86: -3075692587324470423
+      endOcean_87: 5496795898838099136
+      endOcean_88: -7691192095393254323
+      endOcean_89: -6869416665075559413
+      endOcean_9: 6466927769776426494
+      endOcean_90: -1930752318929261593
+      endOcean_91: -6557376852187067221
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -35,19 +35,31 @@ public class Crow : MonoBehaviour
     
     [SerializeField]
     private Sprite[] _beaks;
+
+    [SerializeField]
+    private Transform[] _crowPositions;
     
     private bool _isActivated;
     
     private void Start()
     {
         MusicManager.markerUpdated += OnMarkerUpdated;
+        MusicManager.beatUpdated += OnBeatUpdated;
     }
-    
+
     private void OnDestroy()
     {
         MusicManager.markerUpdated -= OnMarkerUpdated;
     }
-
+    
+    private void OnBeatUpdated()
+    {
+        if (!_isActivated)
+            return;
+        
+        transform.position = _crowPositions.GetRandomEntry().position;
+    }
+    
     private void OnMarkerUpdated()
     {
         if (MusicManager.lastMarkerString == "Boss")
@@ -61,6 +73,9 @@ public class Crow : MonoBehaviour
         
         if (MusicManager.lastMarkerString == "Idle")
             Idle();
+        
+        if (MusicManager.lastMarkerString == "BossDefeat")
+            Defeat();
     }
 
     private void Activate()
@@ -111,5 +126,10 @@ public class Crow : MonoBehaviour
         _hatSquawk01.enabled = true;
         
         Game.state = Game.GameState.BossAttack;
+    }
+
+    private void Defeat()
+    {
+        
     }
 }

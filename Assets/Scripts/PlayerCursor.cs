@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using UnityEngine;
+using EventReference = FMODUnity.EventReference;
 
 public class PlayerCursor : MonoBehaviour
 {
@@ -15,6 +16,9 @@ public class PlayerCursor : MonoBehaviour
     public static event ClickHandler playerClick;
     
     private Camera mainCamera;
+
+    [SerializeField]
+    private EventReference emptyClickSound;
 
     private void Awake()
     {
@@ -61,6 +65,12 @@ public class PlayerCursor : MonoBehaviour
     {
         if (playerInput.WasLeftButtonPressed)
         {
+            if (Game.state == Game.GameState.BossAttack)
+            {
+                FMODUnity.RuntimeManager.PlayOneShot(emptyClickSound);    
+                return;
+            }
+            
             if (hoverables.Count == 0)
                 return;
             

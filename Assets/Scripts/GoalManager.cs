@@ -25,7 +25,7 @@ public class GoalManager : MonoBehaviour
     {
         _lastMarker = MusicManager.lastMarkerString;
         
-        if (_lastMarker == "Squawk")
+        if (_lastMarker is "Squawk")
         {
             constraint.Init();
             
@@ -35,10 +35,11 @@ public class GoalManager : MonoBehaviour
             }
         }
 
-        if (_lastMarker == "Idle")
-        {
+        if (_lastMarker is "Idle" or "Bye" or "BossDefeat")
             constraint.Clear();
-        }
+
+        if (_lastMarker is "Whiteout")
+            gameObject.SetActive(false);
     }
 
     private void OnBeatUpdated()

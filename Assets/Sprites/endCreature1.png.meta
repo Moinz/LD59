@@ -1,0 +1,1196 @@
+fileFormatVersion: 2
+guid: a3fb35c2872a7764eb536f6b6c28f8ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7116077933766296583
+    second: endCreature1_0
+  - first:
+      213: 5317274338444465606
+    second: endCreature1_1
+  - first:
+      213: -1760629579489279528
+    second: endCreature1_2
+  - first:
+      213: -6150368632876267620
+    second: endCreature1_3
+  - first:
+      213: -1904397444453416541
+    second: endCreature1_4
+  - first:
+      213: 5563476968115947349
+    second: endCreature1_5
+  - first:
+      213: 3295599291306907649
+    second: endCreature1_6
+  - first:
+      213: -262601546829971885
+    second: endCreature1_7
+  - first:
+      213: 1628439970654211497
+    second: endCreature1_8
+  - first:
+      213: 5521999990971952123
+    second: endCreature1_9
+  - first:
+      213: 1233173296844213178
+    second: endCreature1_10
+  - first:
+      213: 8393130813486769832
+    second: endCreature1_11
+  - first:
+      213: -4623727907659764080
+    second: endCreature1_12
+  - first:
+      213: -7804108197295067914
+    second: endCreature1_13
+  - first:
+      213: 6155679104513371750
+    second: endCreature1_14
+  - first:
+      213: 3937736760221913943
+    second: endCreature1_15
+  - first:
+      213: 4581787535611264481
+    second: endCreature1_16
+  - first:
+      213: -1061266700918188145
+    second: endCreature1_17
+  - first:
+      213: 4944049326752645786
+    second: endCreature1_18
+  - first:
+      213: 4021976601444785407
+    second: endCreature1_19
+  - first:
+      213: -4118584630873780814
+    second: endCreature1_20
+  - first:
+      213: 1298253497788935168
+    second: endCreature1_21
+  - first:
+      213: 3670246128073392206
+    second: endCreature1_22
+  - first:
+      213: 3290421517673455152
+    second: endCreature1_23
+  - first:
+      213: 6286344640235013675
+    second: endCreature1_24
+  - first:
+      213: 2295244466389203482
+    second: endCreature1_25
+  - first:
+      213: -5741759920422912464
+    second: endCreature1_26
+  - first:
+      213: -6581590490110696213
+    second: endCreature1_27
+  - first:
+      213: 2046378111990312362
+    second: endCreature1_28
+  - first:
+      213: -1861152323268004967
+    second: endCreature1_29
+  - first:
+      213: -1086724364029300112
+    second: endCreature1_30
+  - first:
+      213: -1929191540163851415
+    second: endCreature1_31
+  - first:
+      213: -173530869048807182
+    second: endCreature1_32
+  - first:
+      213: 1261216963761600153
+    second: endCreature1_33
+  - first:
+      213: -2301147052660228356
+    second: endCreature1_34
+  - first:
+      213: 6551328208324532612
+    second: endCreature1_35
+  - first:
+      213: -376835722814346354
+    second: endCreature1_36
+  - first:
+      213: 7688432879718790629
+    second: endCreature1_37
+  - first:
+      213: 9107815860497758293
+    second: endCreature1_38
+  - first:
+      213: 3478071354035285940
+    second: endCreature1_39
+  - first:
+      213: -8094436167348369968
+    second: endCreature1_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: endCreature1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2759
+        width: 211
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb3dd362dc9e3d90800000000000000
+      internalID: -7116077933766296583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_1
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2896
+        width: 449
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c55844b6d0cac940800000000000000
+      internalID: 5317274338444465606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_2
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 3063
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d10f75c9bcf097e0800000000000000
+      internalID: -1760629579489279528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_3
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 3067
+        width: 89
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9784bf705085aaa0800000000000000
+      internalID: -6150368632876267620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_4
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 3067
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1413c3d983295e0800000000000000
+      internalID: -1904397444453416541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_5
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 0
+        width: 216
+        height: 3084
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5574e9073d0753d40800000000000000
+      internalID: 5563476968115947349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_6
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 3075
+        width: 44
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108906838125cbd20800000000000000
+      internalID: 3295599291306907649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_7
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 3079
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e3bb3d84d0b5cf0800000000000000
+      internalID: -262601546829971885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_8
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 3023
+        width: 350
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad44e48681699610800000000000000
+      internalID: 1628439970654211497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_9
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 2843
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbe7972cb512ac40800000000000000
+      internalID: 5521999990971952123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 2719
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb85e0749c1d1110800000000000000
+      internalID: 1233173296844213178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_11
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2664
+        width: 49
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6a34391046a7470800000000000000
+      internalID: 8393130813486769832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_12
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 2395
+        width: 226
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e21ed27f735dfb0800000000000000
+      internalID: -4623727907659764080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1942
+        width: 126
+        height: 633
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc638741fc32b390800000000000000
+      internalID: -7804108197295067914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_14
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 394
+        width: 834
+        height: 1717
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e60d7088d5d6550800000000000000
+      internalID: 6155679104513371750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_15
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 2099
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753560c68b6a5a630800000000000000
+      internalID: 3937736760221913943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_16
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 2347
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edfb600d77c59f30800000000000000
+      internalID: 4581787535611264481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_17
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1977
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8712dfee8f9541f0800000000000000
+      internalID: -1061266700918188145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_18
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 2027
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92c9110baacc9440800000000000000
+      internalID: 4944049326752645786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_19
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1789
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc9c00e86ee0d730800000000000000
+      internalID: 4021976601444785407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_20
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1683
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd82637919d7d6c0800000000000000
+      internalID: -4118584630873780814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_21
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1518
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c2e148da2540210800000000000000
+      internalID: 1298253497788935168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_22
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 839
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40411e58655fe230800000000000000
+      internalID: 3670246128073392206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 519
+        width: 65
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e5a3adfece9ad20800000000000000
+      internalID: 3290421517673455152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_24
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 406
+        width: 70
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2683e0d4259d3750800000000000000
+      internalID: 6286344640235013675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_25
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 728
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a3fc37ea85adf10800000000000000
+      internalID: 2295244466389203482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_26
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 417
+        width: 101
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03efd9506cb2150b0800000000000000
+      internalID: -5741759920422912464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_27
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 711
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4ecdbe15e79a4a0800000000000000
+      internalID: -6581590490110696213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_28
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 507
+        width: 74
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad2159fc02366c10800000000000000
+      internalID: 2046378111990312362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_29
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 402
+        width: 75
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993b7b2a2dbdb26e0800000000000000
+      internalID: -1861152323268004967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_30
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 428
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0727549d2fd2be0f0800000000000000
+      internalID: -1086724364029300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_31
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 400
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b48d8f3822a35e0800000000000000
+      internalID: -1929191540163851415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_32
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 411
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0f7c0189e779df0800000000000000
+      internalID: -173530869048807182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 323
+        width: 5
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996f4b5752eb08110800000000000000
+      internalID: 1261216963761600153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_34
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 126
+        width: 65
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfeff3692fea010e0800000000000000
+      internalID: -2301147052660228356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_35
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 335
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4891e288b4efaea50800000000000000
+      internalID: 6551328208324532612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_36
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 135
+        width: 77
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b29fa18e535caf0800000000000000
+      internalID: -376835722814346354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226
+        width: 5
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5721318fcc2ba60800000000000000
+      internalID: 7688432879718790629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 203
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55833a41546756e70800000000000000
+      internalID: 9107815860497758293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_39
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 158
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf2cb80877944030800000000000000
+      internalID: 3478071354035285940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endCreature1_40
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 131
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d540242139caaf80800000000000000
+      internalID: -8094436167348369968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fe6b48e8d2f6b774ab66b5b38bf305ca
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      endCreature1_0: -7116077933766296583
+      endCreature1_1: 5317274338444465606
+      endCreature1_10: 1233173296844213178
+      endCreature1_11: 8393130813486769832
+      endCreature1_12: -4623727907659764080
+      endCreature1_13: -7804108197295067914
+      endCreature1_14: 6155679104513371750
+      endCreature1_15: 3937736760221913943
+      endCreature1_16: 4581787535611264481
+      endCreature1_17: -1061266700918188145
+      endCreature1_18: 4944049326752645786
+      endCreature1_19: 4021976601444785407
+      endCreature1_2: -1760629579489279528
+      endCreature1_20: -4118584630873780814
+      endCreature1_21: 1298253497788935168
+      endCreature1_22: 3670246128073392206
+      endCreature1_23: 3290421517673455152
+      endCreature1_24: 6286344640235013675
+      endCreature1_25: 2295244466389203482
+      endCreature1_26: -5741759920422912464
+      endCreature1_27: -6581590490110696213
+      endCreature1_28: 2046378111990312362
+      endCreature1_29: -1861152323268004967
+      endCreature1_3: -6150368632876267620
+      endCreature1_30: -1086724364029300112
+      endCreature1_31: -1929191540163851415
+      endCreature1_32: -173530869048807182
+      endCreature1_33: 1261216963761600153
+      endCreature1_34: -2301147052660228356
+      endCreature1_35: 6551328208324532612
+      endCreature1_36: -376835722814346354
+      endCreature1_37: 7688432879718790629
+      endCreature1_38: 9107815860497758293
+      endCreature1_39: 3478071354035285940
+      endCreature1_4: -1904397444453416541
+      endCreature1_40: -8094436167348369968
+      endCreature1_5: 5563476968115947349
+      endCreature1_6: 3295599291306907649
+      endCreature1_7: -262601546829971885
+      endCreature1_8: 1628439970654211497
+      endCreature1_9: 5521999990971952123
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

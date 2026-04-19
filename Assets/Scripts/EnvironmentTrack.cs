@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.Rendering;
 
 public class EnvironmentTrack : MonoBehaviour
 {
@@ -7,6 +8,11 @@ public class EnvironmentTrack : MonoBehaviour
     
     [SerializeField]
     private float moveSpeed = 0.05f;
+    
+    [SerializeField]
+    private SortingGroup sortingGroup;
+    
+    public float NormalizedProgress => normalizedProgress;
 
     private void OnValidate()
     {
@@ -23,8 +29,6 @@ public class EnvironmentTrack : MonoBehaviour
             normalizedProgress = 0f;
      
         SetPosition();
-
-
     }
 
     private void SetPosition()
@@ -32,5 +36,10 @@ public class EnvironmentTrack : MonoBehaviour
         normalizedProgress = Mathf.Clamp01(normalizedProgress);
         var zPos = Mathf.Lerp(EnvironmentTrackManager.MapRange.x, EnvironmentTrackManager.MapRange.y, normalizedProgress);
         transform.localPosition = new Vector3(0f, 0f, zPos);
+    }
+
+    public void SetSortingGroup(int order)
+    {
+        sortingGroup.sortingOrder = order;
     }
 }
