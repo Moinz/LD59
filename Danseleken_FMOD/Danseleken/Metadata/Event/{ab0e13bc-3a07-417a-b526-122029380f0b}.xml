@@ -60,7 +60,7 @@
 	<object class="MarkerTrack" id="{5ea4e36c-fe89-4098-82ec-5e037e477fa0}" />
 	<object class="GroupTrack" id="{b041892d-c597-42d5-9b2e-c74a03bfb369}">
 		<relationship name="modules">
-			<destination>{1cce2833-3d5f-4547-b408-0358ff51218c}</destination>
+			<destination>{4fafc058-c556-4e93-a661-fd52d086360c}</destination>
 		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{a74f4a0d-6a4c-4a58-a164-93fe2b770cc2}</destination>
@@ -68,7 +68,7 @@
 	</object>
 	<object class="Timeline" id="{153ab0da-e0be-4feb-a028-8dc1f4d27121}">
 		<relationship name="modules">
-			<destination>{1cce2833-3d5f-4547-b408-0358ff51218c}</destination>
+			<destination>{4fafc058-c556-4e93-a661-fd52d086360c}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{e1ea9a2b-2952-47f8-89e8-5c32fe4b8da8}">
@@ -88,12 +88,12 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{5d1a0157-c364-42c8-9987-2cc235642e22}" />
-	<object class="SingleSound" id="{1cce2833-3d5f-4547-b408-0358ff51218c}">
+	<object class="SingleSound" id="{4fafc058-c556-4e93-a661-fd52d086360c}">
 		<property name="length">
-			<value>0.75</value>
+			<value>0.86349206349206353</value>
 		</property>
 		<relationship name="audioFile">
-			<destination>{d1b3833b-7624-41ff-bcc3-3003d05b827c}</destination>
+			<destination>{28c6c95d-9aad-410f-98e2-a88b29ce1509}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{a74f4a0d-6a4c-4a58-a164-93fe2b770cc2}">
@@ -112,13 +112,11 @@
 	</object>
 	<object class="MixerBusEffectChain" id="{cddf557e-e7a6-4381-9e66-103697a97810}">
 		<relationship name="effects">
+			<destination>{079fa041-ff18-4569-82a1-9f71eab1e694}</destination>
 			<destination>{f797200a-4712-4ce8-aeb0-9842bb9f2a73}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{61eecb56-c0bf-47f2-b4ea-8d809ada0c7d}">
-		<property name="stereoPan">
-			<value>26</value>
-		</property>
 		<property name="overridingOutputFormat">
 			<value>1</value>
 		</property>
@@ -130,6 +128,14 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{5c165a42-af80-404d-a55e-575c5f975cae}" />
+	<object class="DelayEffect" id="{079fa041-ff18-4569-82a1-9f71eab1e694}">
+		<property name="delay">
+			<value>66</value>
+		</property>
+		<property name="level">
+			<value>-4.5</value>
+		</property>
+	</object>
 	<object class="MixerBusFader" id="{f797200a-4712-4ce8-aeb0-9842bb9f2a73}" />
 	<object class="MixerBusFader" id="{4fef258c-1d2c-45b8-8ca6-79e41a7e78c0}" />
 </objects>
