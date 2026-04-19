@@ -46,11 +46,7 @@ public class BeatScorer : MonoBehaviour
             Debug.Log("Miss.");
             return;
         }
-
-        // 3. Calculate Score based on delta
-        if (minDelta <= perfectWindow)  Debug.Log("Perfect");
-        else if (minDelta <= goodWindow) Debug.Log("Good");
-        else Debug.Log("Miss");
+        
     }
 
     private void OnBeat()

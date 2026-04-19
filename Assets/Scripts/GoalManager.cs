@@ -46,16 +46,24 @@ public class GoalManager : MonoBehaviour
     {
         if (Game.state == Game.GameState.BossAttack)
             return;
-        
-        var randomEntry = goals.GetRandomEntry();
-        var maxAttempts = 10;
-        
-        while (randomEntry.IsShown && maxAttempts > 0)
+
+        var goalsToAdd = 1;
+        if (Random.value < 0.15f)
+            goalsToAdd = 2;
+
+        for (int i = 0; i < goalsToAdd; i++)
         {
-            maxAttempts--;
-            randomEntry = goals.GetRandomEntry();
-        }
+            var randomEntry = goals.GetRandomEntry();
+            var maxAttempts = 10;
         
-        goals.GetRandomEntry().Show();
+            while (randomEntry.IsShown && maxAttempts > 0)
+            {
+                maxAttempts--;
+                randomEntry = goals.GetRandomEntry();
+            }
+        
+            goals.GetRandomEntry().Show();
+        }
+
     }
 }
