@@ -25,8 +25,6 @@
 		<relationship name="markerTracks">
 			<destination>{3498500b-7585-44f9-857d-97291ebaebfd}</destination>
 			<destination>{f1a849be-e6bd-4ba3-8d73-3b9a3ffa2d68}</destination>
-			<destination>{0115be10-384b-44af-92dd-fddd82bd7372}</destination>
-			<destination>{1e240cd5-c9ad-4a07-8789-75d799a21bc3}</destination>
 		</relationship>
 		<relationship name="groupTracks">
 			<destination>{d6955922-1fc9-4ae7-a772-39de7e70ddc1}</destination>
@@ -68,14 +66,11 @@
 	<object class="EventAutomatableProperties" id="{0d73c8be-4bcb-4632-854a-3cac6bb7fba6}" />
 	<object class="MarkerTrack" id="{3498500b-7585-44f9-857d-97291ebaebfd}" />
 	<object class="MarkerTrack" id="{f1a849be-e6bd-4ba3-8d73-3b9a3ffa2d68}" />
-	<object class="MarkerTrack" id="{0115be10-384b-44af-92dd-fddd82bd7372}" />
-	<object class="MarkerTrack" id="{1e240cd5-c9ad-4a07-8789-75d799a21bc3}" />
 	<object class="GroupTrack" id="{d6955922-1fc9-4ae7-a772-39de7e70ddc1}">
 		<relationship name="modules">
 			<destination>{4e55b728-5e33-44cf-bf24-ee819e6c8c1b}</destination>
 			<destination>{4c9a30ac-ebc2-4dcc-a8f9-73ab40f86022}</destination>
 			<destination>{32dc6028-285f-47b3-a9e5-97a6ffb555b3}</destination>
-			<destination>{8e9ef00e-4ad4-44de-bbae-dd14d3834476}</destination>
 		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{58f07c34-a6d8-42a2-b1e6-18456d2d89ca}</destination>
@@ -158,6 +153,7 @@
 			<destination>{64d8e329-b6fb-45c7-a69d-13bd347a0d7e}</destination>
 			<destination>{e5a88ccf-930a-487d-b3d8-154a41945653}</destination>
 			<destination>{54c1b063-9fef-4022-89fd-69f846844a63}</destination>
+			<destination>{df331a66-be57-4307-9c38-454750670a72}</destination>
 		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{cf05aa73-c1d4-4fb4-9dfd-905f9a4bcbf1}</destination>
@@ -240,18 +236,17 @@
 			<destination>{54c1b063-9fef-4022-89fd-69f846844a63}</destination>
 			<destination>{99357353-25ce-485d-82ac-b8f3282b75c9}</destination>
 			<destination>{f0780aa2-f27f-4d00-91bc-3daa03fc027d}</destination>
-			<destination>{8e9ef00e-4ad4-44de-bbae-dd14d3834476}</destination>
 			<destination>{643df05d-030e-4b1b-8262-9ee284725fa1}</destination>
 			<destination>{1e4dc47a-fd9a-4419-904c-025269e5f185}</destination>
 			<destination>{de88e699-4567-4db2-9c90-9a4f0f6d3b5d}</destination>
 			<destination>{b4ab57f7-7523-4bfa-8b89-05e2ef4e0234}</destination>
 			<destination>{0eac6b7b-dd60-4233-8a7e-0b896c777b36}</destination>
 			<destination>{d1583a50-a01e-4202-a5a9-518d9dbf9f39}</destination>
+			<destination>{df331a66-be57-4307-9c38-454750670a72}</destination>
 		</relationship>
 		<relationship name="markers">
 			<destination>{e7501072-5256-4ae9-badf-c0bb3a1f53cb}</destination>
 			<destination>{8a9ee42e-26de-4cd1-b486-a504bb6a6927}</destination>
-			<destination>{7c0e8be7-7a4d-4b4b-aba0-1837bb49ea9b}</destination>
 			<destination>{d2559aa1-d560-4096-ac1a-d10c3def8184}</destination>
 			<destination>{7b87ac82-d08f-4ae9-9382-fc5d31346310}</destination>
 			<destination>{451ae564-6987-41fb-875e-6aadd07f7386}</destination>
@@ -283,6 +278,7 @@
 			<destination>{63e05206-7b32-40dc-988e-7a4a0d241f99}</destination>
 			<destination>{22875bd7-8c2b-4a3d-9d30-136a25709b40}</destination>
 			<destination>{150f339b-7118-4f9c-8169-0e0d1cd5fc55}</destination>
+			<destination>{e242d3b5-0761-4698-bced-1f35209276ac}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{5c4abdf7-bdbd-4cc7-a8c4-934716d20e95}">
@@ -333,20 +329,6 @@
 		</property>
 		<property name="length">
 			<value>32</value>
-		</property>
-		<property name="looping">
-			<value>true</value>
-		</property>
-		<relationship name="audioFile">
-			<destination>{216937b3-02b5-474d-81c0-34727e031cd1}</destination>
-		</relationship>
-	</object>
-	<object class="SingleSound" id="{8e9ef00e-4ad4-44de-bbae-dd14d3834476}">
-		<property name="start">
-			<value>168</value>
-		</property>
-		<property name="length">
-			<value>16</value>
 		</property>
 		<property name="looping">
 			<value>true</value>
@@ -1140,6 +1122,17 @@
 			<destination>{13ea8bdc-fb5c-476f-9336-fbf9912f1e0a}</destination>
 		</relationship>
 	</object>
+	<object class="SingleSound" id="{df331a66-be57-4307-9c38-454750670a72}">
+		<property name="start">
+			<value>168</value>
+		</property>
+		<property name="length">
+			<value>8.1999999999999993</value>
+		</property>
+		<relationship name="audioFile">
+			<destination>{dd615c62-5106-4e5f-99c5-aa8a4b26c53e}</destination>
+		</relationship>
+	</object>
 	<object class="EventMixerGroup" id="{cf05aa73-c1d4-4fb4-9dfd-905f9a4bcbf1}">
 		<property name="name">
 			<value>etter boss</value>
@@ -1326,23 +1319,6 @@
 		</relationship>
 		<relationship name="markerTrack">
 			<destination>{f1a849be-e6bd-4ba3-8d73-3b9a3ffa2d68}</destination>
-		</relationship>
-	</object>
-	<object class="LoopRegion" id="{7c0e8be7-7a4d-4b4b-aba0-1837bb49ea9b}">
-		<property name="position">
-			<value>0</value>
-		</property>
-		<property name="length">
-			<value>184</value>
-		</property>
-		<property name="name">
-			<value>normal</value>
-		</property>
-		<relationship name="timeline">
-			<destination>{5a7d5cb7-75a7-41ea-aae4-4fed3279c2bc}</destination>
-		</relationship>
-		<relationship name="markerTrack">
-			<destination>{1e240cd5-c9ad-4a07-8789-75d799a21bc3}</destination>
 		</relationship>
 	</object>
 	<object class="NamedMarker" id="{d2559aa1-d560-4096-ac1a-d10c3def8184}">
@@ -1777,6 +1753,20 @@
 		</relationship>
 		<relationship name="markerTrack">
 			<destination>{f1a849be-e6bd-4ba3-8d73-3b9a3ffa2d68}</destination>
+		</relationship>
+	</object>
+	<object class="LoopRegion" id="{e242d3b5-0761-4698-bced-1f35209276ac}">
+		<property name="position">
+			<value>168</value>
+		</property>
+		<property name="length">
+			<value>8</value>
+		</property>
+		<relationship name="timeline">
+			<destination>{5a7d5cb7-75a7-41ea-aae4-4fed3279c2bc}</destination>
+		</relationship>
+		<relationship name="markerTrack">
+			<destination>{3498500b-7585-44f9-857d-97291ebaebfd}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{e125e435-2586-4156-9128-ba6a5b31b7e3}">
