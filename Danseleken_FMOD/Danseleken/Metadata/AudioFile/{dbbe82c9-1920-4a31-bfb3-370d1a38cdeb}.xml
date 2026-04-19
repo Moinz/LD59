@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{dbbe82c9-1920-4a31-bfb3-370d1a38cdeb}">
+		<property name="assetPath">
+			<value>danseleken boss stille.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>8</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{248ed459-8829-4c03-a9bc-d0cc48cf3857}</destination>
+		</relationship>
+	</object>
+</objects>
