@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{8ef953ba-74af-4ceb-a086-382f3555fdd6}">
+		<property name="assetPath">
+			<value>Voices, Efforts, Female, Damage, Grunt, Short, Ouch, Multiple SND94961 - Pitch 174.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>192</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.11958333333333333</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{248ed459-8829-4c03-a9bc-d0cc48cf3857}</destination>
+		</relationship>
+	</object>
+</objects>
