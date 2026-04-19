@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{867adfa8-3f91-41fb-a51b-1760e214998c}">
+	<object class="AudioFile" id="{ede54beb-a9da-442b-b87a-36854342cc34}">
 		<property name="assetPath">
-			<value>danselekenboss coming.wav</value>
+			<value>anime_shoot_star_pling_tremolo.wav</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>44.0999985</value>
+			<value>48</value>
 		</property>
 		<property name="channelCount">
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>4.2000000000000002</value>
+			<value>0.92564583333333328</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{248ed459-8829-4c03-a9bc-d0cc48cf3857}</destination>
