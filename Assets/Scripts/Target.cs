@@ -1,3 +1,4 @@
+using System;
 using FMODUnity;
 using Seagulls;
 using UnityEngine;
@@ -14,6 +15,8 @@ public class Target : MonoBehaviour
     
     [SerializeField]
     private EventReference clickSound;
+
+    public event Action OnClick;
 
     public void Hover()
     {
@@ -37,7 +40,7 @@ public class Target : MonoBehaviour
 
     public void Click()
     {
-        gameObject.SetActive(false);
+        OnClick?.Invoke();
         
         if (clickSound.IsNull)
             return;

@@ -2,7 +2,18 @@ using UnityEngine;
 
 public class Game : MonoBehaviour
 {
+    public enum GameState
+    {
+        Menu,
+        Playing,
+        Boss,
+        BossAttack,
+        Result
+    }
+    
     public static Game Instance;
+
+    public static GameState state = GameState.Playing;
 
     public Camera camera;
 

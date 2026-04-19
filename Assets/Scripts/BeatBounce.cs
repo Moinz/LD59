@@ -35,6 +35,9 @@ public class BeatBounce : MonoBehaviour
 
     private void OnBeatUpdated()
     {
+        if (Game.state == Game.GameState.BossAttack)
+            return;
+        
         if (_specificBeats && !beatsToReactTo.Contains(MusicManager.lastBeat))
             return;
         

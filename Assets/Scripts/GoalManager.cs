@@ -2,7 +2,6 @@ using UnityEngine;
 
 public class GoalManager : MonoBehaviour
 {
-    [SerializeField]
     private Goal[] goals;
 
     [SerializeField]
@@ -12,33 +11,50 @@ public class GoalManager : MonoBehaviour
     private Constraint constraint;
 
     private string _lastMarker;
+    private bool inBoss;
     
     private void Start()
     {
         MusicManager.beatUpdated += OnBeatUpdated;
         MusicManager.markerUpdated += OnMarkerUpdated;
+        
+        goals = GetComponentsInChildren<Goal>(true);
     }
 
     private void OnMarkerUpdated()
     {
         _lastMarker = MusicManager.lastMarkerString;
-
-        if (_lastMarker == "Boss")
-        {
-            crow.SetActive(true);
-            constraint.Init();
-        }
         
-        if (_lastMarker == "Start")
+        if (_lastMarker == "Squawk")
         {
-            crow.SetActive(false);
+            constraint.Init();
+            
+            foreach (var goal in goals)
+            {
+                goal.Hide();
+            }
+        }
+
+        if (_lastMarker == "Idle")
+        {
             constraint.Clear();
         }
     }
 
     private void OnBeatUpdated()
     {
-        if (MusicManager.lastBeat % 2 == 0)
-            goals.GetRandomEntry().gameObject.SetActive(true);
+        if (Game.state == Game.GameState.BossAttack)
+            return;
+        
+        var randomEntry = goals.GetRandomEntry();
+        var maxAttempts = 10;
+        
+        while (randomEntry.IsShown && maxAttempts > 0)
+        {
+            maxAttempts--;
+            randomEntry = goals.GetRandomEntry();
+        }
+        
+        goals.GetRandomEntry().Show();
     }
 }

@@ -37,10 +37,16 @@ public class PlayerCursor : MonoBehaviour
 
     private void LateUpdate()
     {
-        if (playerInput == null)
+        if (Game.state == Game.GameState.BossAttack)
         {
-            return;
+            foreach (var hoverable in hoverables)
+                hoverable.UnHover();
+            
+            hoverables.Clear();
         }
+        
+        if (playerInput == null)
+            return;
 
         var screenPos = playerInput.CursorPosition;
         var cameraDistance = Mathf.Abs(worldZ - mainCamera.transform.position.z);

@@ -4,6 +4,9 @@ using UnityEngine;
 public class Crow : MonoBehaviour
 {
     [SerializeField]
+    private GameObject _crowParent;
+    
+    [SerializeField]
     private SpriteRenderer _legLeft;
     
     [SerializeField]
@@ -37,25 +40,14 @@ public class Crow : MonoBehaviour
     
     private void Start()
     {
-        MusicManager.beatUpdated += OnBeatUpdated;
         MusicManager.markerUpdated += OnMarkerUpdated;
     }
     
     private void OnDestroy()
     {
-        MusicManager.beatUpdated -= OnBeatUpdated;
         MusicManager.markerUpdated -= OnMarkerUpdated;
     }
 
-    private void OnBeatUpdated()
-    {
-        if (!_isActivated)
-            return;
-        
-        if (MusicManager.lastBeat % 4 == 0)
-            Squawk();
-    }
-    
     private void OnMarkerUpdated()
     {
         if (MusicManager.lastMarkerString == "Boss")
@@ -73,16 +65,18 @@ public class Crow : MonoBehaviour
 
     private void Activate()
     {
-        gameObject.SetActive(true);
-        
-        Idle();
         _isActivated = true;
+        _crowParent.SetActive(true);
+
+        Game.state = Game.GameState.Boss;
     }
 
     private void Deactivate()
     {
-        gameObject.SetActive(false);
-        Idle();
+        _isActivated = false;
+        _crowParent.SetActive(false);
+        
+        Game.state = Game.GameState.Playing;
     }
 
     [Button]
@@ -98,6 +92,8 @@ public class Crow : MonoBehaviour
         _hat00.enabled = true;
         _hatSquawk00.enabled = false;
         _hatSquawk01.enabled = false;
+
+        Game.state = Game.GameState.Boss;
     }
 
     [Button]
@@ -113,5 +109,7 @@ public class Crow : MonoBehaviour
         _hat00.enabled = false;
         _hatSquawk00.enabled = true;
         _hatSquawk01.enabled = true;
+        
+        Game.state = Game.GameState.BossAttack;
     }
 }

@@ -15,9 +15,16 @@ public class EnvironmentTrack : MonoBehaviour
     
     private void Update()
     {
+        if (Game.state != Game.GameState.Playing)
+            return;
+        
         normalizedProgress += moveSpeed * Time.deltaTime;
+        if (normalizedProgress >= 1f)
+            normalizedProgress = 0f;
      
         SetPosition();
+
+
     }
 
     private void SetPosition()

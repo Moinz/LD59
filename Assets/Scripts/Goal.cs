@@ -1,5 +1,4 @@
-using System;
-using Shapes;
+using DG.Tweening;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
@@ -8,46 +7,61 @@ public class Goal : MonoBehaviour
     public float _rotationSpeed;
     public float _varianceMagnitude;
 
-    public Disc indicatorDisc;
-    public Vector2 radiusRange = new(1.6f, 0.8f);
+    [SerializeField]
+    private Target _hoverable;
 
     [SerializeField]
-    private Target _target;
+    private Transform _visualParent;
 
     private float _rotationMagnitude = 1f;
-    private float currentShrinkDuration;
-    public float shrinkRatio = 0.5f;
-    public float bpm = 120f;
 
-    private bool isAnimating;
-    private float startTime;
+    private Collider2D _collider;
 
-    private void OnEnable()
+    public bool IsShown;
+    
+    private void Start()
     {
-        startTime = Time.time;
-        isAnimating = true;
+        var rotationSpeedModifier = _rotationSpeed * _varianceMagnitude;
+        _rotationSpeed = Random.Range(_rotationSpeed - rotationSpeedModifier, _rotationSpeed + rotationSpeedModifier);
+
+        _hoverable._isHovered.OnChanged += OnHovered;
+        _hoverable.OnClick += Hide;
         
-        float beatInterval = 60f / bpm;
-        currentShrinkDuration = beatInterval * shrinkRatio;
+        _collider = GetComponent<Collider2D>();
+    }
+
+    private void OnDestroy()
+    {
+        _hoverable._isHovered.OnChanged -= OnHovered;
+    }
+
+    private void OnHovered(bool isHovered)
+    {
+        _rotationMagnitude = isHovered ? 2f : 1f;
         
-        indicatorDisc.Radius = radiusRange.x;
+        transform.localScale = isHovered ? Vector3.one * 1.2f : Vector3.one;
     }
 
     private void Update()
     {
-        if (!isAnimating)
-            return;
-        
-        float elapsed = Time.time - startTime;
-        
-        var progress = elapsed / currentShrinkDuration;
-        var newRadius = Mathf.SmoothStep(radiusRange.x, radiusRange.y, progress);
-        indicatorDisc.Radius = newRadius;
+        var sign = _rotationMagnitude == 2 ? -1 : 1;
+        transform.Rotate(Vector3.forward, _rotationSpeed * Time.deltaTime * _rotationMagnitude * sign);
+    }
 
-        if (progress >= 1.2f)
-        {
-            gameObject.SetActive(false);
-            isAnimating = false;
-        }
+    public void Show()
+    {
+        _visualParent.DOScale(Vector3.one, 0.3f).SetEase(Ease.OutBounce);
+        
+        gameObject.SetActive(true);
+        IsShown = true;
+        _collider.enabled = true;
+    }
+    
+    public void Hide()
+    {
+        _visualParent.DOScale(Vector3.zero, 0.3f).SetEase(Ease.OutBounce);
+        
+        IsShown = false;
+        _collider.enabled = false;
     }
 }
