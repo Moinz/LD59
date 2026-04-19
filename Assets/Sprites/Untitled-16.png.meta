@@ -440,7 +440,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Untitled-16_15
+      name: wing2
       rect:
         serializedVersion: 2
         x: 971
@@ -528,7 +528,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Untitled-16_19
+      name: crow_body
       rect:
         serializedVersion: 2
         x: 334
@@ -550,7 +550,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Untitled-16_20
+      name: wing01
       rect:
         serializedVersion: 2
         x: 1400
@@ -814,7 +814,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Untitled-16_32
+      name: wing00
       rect:
         serializedVersion: 2
         x: 1055
@@ -1122,7 +1122,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Untitled-16_46
+      name: crow_leg
       rect:
         serializedVersion: 2
         x: 922
@@ -1408,7 +1408,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Untitled-16_59
+      name: crow_leg2
       rect:
         serializedVersion: 2
         x: 1238
@@ -1694,13 +1694,10 @@ TextureImporter:
       Untitled-16_12: -1392926279
       Untitled-16_13: -522633907
       Untitled-16_14: 648264788
-      Untitled-16_15: 1950274379
       Untitled-16_16: 245107568
       Untitled-16_17: 195858475
       Untitled-16_18: 1606886443
-      Untitled-16_19: -755538941
       Untitled-16_2: -852879106
-      Untitled-16_20: 1244175056
       Untitled-16_21: 177505177
       Untitled-16_22: -1143435509
       Untitled-16_23: -557369157
@@ -1713,7 +1710,6 @@ TextureImporter:
       Untitled-16_3: 243381263
       Untitled-16_30: 1148567900
       Untitled-16_31: 539268177
-      Untitled-16_32: 27620778
       Untitled-16_33: -170382495
       Untitled-16_34: 1330456565
       Untitled-16_35: -725915519
@@ -1728,7 +1724,6 @@ TextureImporter:
       Untitled-16_43: -1587851443
       Untitled-16_44: 2138723975
       Untitled-16_45: -2025887656
-      Untitled-16_46: -2103003989
       Untitled-16_47: -2134319122
       Untitled-16_48: 1364179899
       Untitled-16_49: -1758495232
@@ -1742,7 +1737,6 @@ TextureImporter:
       Untitled-16_56: 1662673712
       Untitled-16_57: 1407152379
       Untitled-16_58: -1572009235
-      Untitled-16_59: 1050739594
       Untitled-16_6: 1129309607
       Untitled-16_60: 31397151
       Untitled-16_61: 119277041
@@ -1758,6 +1752,12 @@ TextureImporter:
       Untitled-16_70: 27637337
       Untitled-16_8: 904392651
       Untitled-16_9: 2012654408
+      crow_body: -755538941
+      crow_leg: -2103003989
+      crow_leg2: 1050739594
+      wing00: 27620778
+      wing01: 1244175056
+      wing2: 1950274379
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

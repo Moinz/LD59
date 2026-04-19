@@ -132,15 +132,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Untitled-15_1
+      name: beak0
       rect:
         serializedVersion: 2
         x: 1152
         y: 1756
         width: 83
         height: 177
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.100437395, y: 0.09568519}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -154,15 +154,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Untitled-15_2
+      name: beak02
       rect:
         serializedVersion: 2
         x: 1423
         y: 1723
         width: 99
         height: 126
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.21790661, y: 0.0982666}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -198,7 +198,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Untitled-15_4
+      name: hat
       rect:
         serializedVersion: 2
         x: 803
@@ -286,15 +286,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Untitled-15_8
+      name: beak03
       rect:
         serializedVersion: 2
         x: 1203
         y: 1576
         width: 143
         height: 165
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.121613614, y: 0.07685843}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -528,15 +528,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Untitled-15_19
+      name: beak00
       rect:
         serializedVersion: 2
         x: 733
         y: 1360
         width: 143
         height: 141
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5122062, y: 0.14100419}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -836,7 +836,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Untitled-15_33
+      name: hatSquawk01
       rect:
         serializedVersion: 2
         x: 1168
@@ -1188,7 +1188,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Untitled-15_49
+      name: hatSquawk00
       rect:
         serializedVersion: 2
         x: 1132
@@ -1776,7 +1776,6 @@ TextureImporter:
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Untitled-15_0: 537803329
-      Untitled-15_1: 797192992
       Untitled-15_10: 1353782718
       Untitled-15_11: -1495124203
       Untitled-15_12: 2136113948
@@ -1786,8 +1785,6 @@ TextureImporter:
       Untitled-15_16: -1557117395
       Untitled-15_17: 900770556
       Untitled-15_18: 430600219
-      Untitled-15_19: -795614122
-      Untitled-15_2: 1527046564
       Untitled-15_20: -84640652
       Untitled-15_21: 1582925546
       Untitled-15_22: -880266169
@@ -1802,14 +1799,12 @@ TextureImporter:
       Untitled-15_30: -610717744
       Untitled-15_31: 1922262035
       Untitled-15_32: -286211998
-      Untitled-15_33: 1069210961
       Untitled-15_34: 666027831
       Untitled-15_35: -144256312
       Untitled-15_36: -365417137
       Untitled-15_37: 2083342403
       Untitled-15_38: -917050025
       Untitled-15_39: -378198510
-      Untitled-15_4: 441927951
       Untitled-15_40: 1552656550
       Untitled-15_41: 1748120242
       Untitled-15_42: -1918992961
@@ -1819,7 +1814,6 @@ TextureImporter:
       Untitled-15_46: -548965656
       Untitled-15_47: -2075287031
       Untitled-15_48: -686374801
-      Untitled-15_49: -1087012108
       Untitled-15_5: 211445612
       Untitled-15_50: 1800803624
       Untitled-15_51: 1455700932
@@ -1848,8 +1842,14 @@ TextureImporter:
       Untitled-15_72: -1472010153
       Untitled-15_73: -390175339
       Untitled-15_74: -807318809
-      Untitled-15_8: -835499562
       Untitled-15_9: -1028935742
+      beak0: 797192992
+      beak00: -795614122
+      beak02: 1527046564
+      beak03: -835499562
+      hat: 441927951
+      hatSquawk00: -1087012108
+      hatSquawk01: 1069210961
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

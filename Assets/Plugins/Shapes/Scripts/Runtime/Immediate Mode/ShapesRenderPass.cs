@@ -24,7 +24,7 @@ namespace Shapes {
 			return this;
 		}
 
-		public override void Execute( ScriptableRenderContext context, ref RenderingData renderingData ) {
+		public void Execute( ScriptableRenderContext context, ref RenderingData renderingData ) {
 			drawCommand.AppendToBuffer( cmdBuf );
 			context.ExecuteCommandBuffer( cmdBuf );
 			cmdBuf.Clear();

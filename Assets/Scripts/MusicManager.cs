@@ -56,7 +56,7 @@ public class MusicManager : MonoBehaviour
     private void OnDestroy()
     {
         musicInstance.setUserData(IntPtr.Zero);
-        musicInstance.stop(STOP_MODE.IMMEDIATE);
+        musicInstance.stop(FMOD.Studio.STOP_MODE.IMMEDIATE);
         musicInstance.release();
         
         timelineHandle.Free();
