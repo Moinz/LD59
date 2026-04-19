@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{2b2025ed-0019-47cf-87fa-1ff037f28c33}">
+		<property name="assetPath">
+			<value>click stille/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{248ed459-8829-4c03-a9bc-d0cc48cf3857}</destination>
+		</relationship>
+	</object>
+</objects>

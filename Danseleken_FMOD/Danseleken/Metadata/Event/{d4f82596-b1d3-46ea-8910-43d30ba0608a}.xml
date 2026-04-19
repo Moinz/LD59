@@ -315,13 +315,10 @@
 	</object>
 	<object class="SingleSound" id="{4c9a30ac-ebc2-4dcc-a8f9-73ab40f86022}">
 		<property name="start">
-			<value>58</value>
+			<value>50</value>
 		</property>
 		<property name="length">
-			<value>16</value>
-		</property>
-		<property name="timelockedOffset">
-			<value>8</value>
+			<value>24</value>
 		</property>
 		<property name="looping">
 			<value>true</value>
