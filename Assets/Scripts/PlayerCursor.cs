@@ -13,7 +13,8 @@ public class PlayerCursor : MonoBehaviour
     private readonly List<Target> hoverables = new();
 
     public delegate void ClickHandler();
-    public static event ClickHandler playerClick;
+    public static event ClickHandler PlayerClickGoal;
+    public static event ClickHandler PlayerClickMiss;
     
     private Camera mainCamera;
 
@@ -67,6 +68,7 @@ public class PlayerCursor : MonoBehaviour
         {
             if (Game.state == Game.GameState.BossAttack)
             {
+                PlayerClickMiss?.Invoke();
                 FMODUnity.RuntimeManager.PlayOneShot(emptyClickSound);    
                 return;
             }
@@ -75,7 +77,7 @@ public class PlayerCursor : MonoBehaviour
                 return;
             
             hoverables[0].Click();
-            playerClick?.Invoke();
+            PlayerClickGoal?.Invoke();
         }
     }
 
