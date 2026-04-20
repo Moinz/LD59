@@ -1678,7 +1678,7 @@
 			<value>109</value>
 		</property>
 		<property name="name">
-			<value>Squawk B</value>
+			<value>Squawk</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{34a0f3bb-81f1-4f17-b5f2-2f70db5619cf}</destination>
