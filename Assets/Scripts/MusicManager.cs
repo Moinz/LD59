@@ -1,4 +1,5 @@
 using System;
+using System.Collections;
 using System.Runtime.InteropServices;
 using FMOD;
 using FMOD.Studio;
@@ -31,15 +32,24 @@ public class MusicManager : MonoBehaviour
     
     private bool _isPlaying;
     
-
     private void Awake()
     {
-        musicInstance = RuntimeManager.CreateInstance(music);
         Game.OnGameStart += StartGame;
     }
 
     private void StartGame()
     {
+        StartCoroutine(StartGameCoroutine());
+    }
+
+    private IEnumerator StartGameCoroutine()
+    {
+        while (!RuntimeManager.HaveAllBanksLoaded)
+        {
+            yield return null;
+        }
+        
+        musicInstance = RuntimeManager.CreateInstance(music);
         musicInstance.start();
         
         timelineInfo = new TimelineInfo();
