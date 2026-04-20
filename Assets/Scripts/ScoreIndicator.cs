@@ -1,4 +1,5 @@
-﻿using TMPro;
+﻿using System;
+using TMPro;
 using UnityEngine;
 
 public class ScoreIndicator : MonoBehaviour
@@ -20,8 +21,20 @@ public class ScoreIndicator : MonoBehaviour
         
         _textMeshProUGUI.text = scoreString;
         _rectTransform.sizeDelta = new Vector2(_textMeshProUGUI.preferredWidth, _textMeshProUGUI.preferredHeight);
-        
-        _textMeshProUGUI.color = isPositive ? Color.green : Color.red;
+
+        var color = isPositive ? Color.white : Color.red;
+        if (score == 15)
+        {
+            color = Color.green;
+            transform.localScale = new Vector3(1.5f, 1.5f, 1.5f);
+        }
+        if (score == 10)
+        {
+            transform.localScale = new Vector3(1.2f, 1.2f, 1.2f);
+            color = Color.yellow;
+        }
+
+        _textMeshProUGUI.color = color;
         _startTime = Time.time;
     }
     

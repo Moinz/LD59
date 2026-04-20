@@ -1,4 +1,5 @@
 using System;
+using FMODUnity;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
@@ -18,6 +19,8 @@ public class Game : MonoBehaviour
     public static GameState state = GameState.Playing;
 
     public Camera camera;
+    [SerializeField]
+    private EventReference _dance;
 
     public static event Action OnGameStart;
 
@@ -29,6 +32,8 @@ public class Game : MonoBehaviour
     public void StartDancing()
     {
         OnGameStart?.Invoke();
+        
+        RuntimeManager.PlayOneShot(_dance);
     }
 }
 

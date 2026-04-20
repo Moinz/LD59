@@ -21,15 +21,10 @@ public class Warning : MonoBehaviour
     {
         var sequence = DOTween.Sequence();
 
-        var interval = 0.125f;
+        var interval = 0.5f;
         sequence.Append(_canvasGroup.DOFade(1f, interval));
         sequence.AppendInterval(interval * 2f);
         sequence.Append(_canvasGroup.DOFade(0f, interval));
-        sequence.AppendInterval(interval);
-        sequence.Append(_canvasGroup.DOFade(1f, interval));
-        sequence.AppendInterval(interval * 2f);
-        sequence.Append(_canvasGroup.DOFade(0f, interval));
-        sequence.AppendInterval(interval);
 
         sequence.Play();
     }

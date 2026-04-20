@@ -63,7 +63,7 @@ public class BeatScorer : MonoBehaviour
         }
         
         if (minDelta <= perfectWindow) 
-            RegisterScore(20);
+            RegisterScore(15);
         else if (minDelta <= goodWindow) 
             RegisterScore(10);
         

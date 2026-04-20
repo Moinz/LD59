@@ -1,0 +1,1690 @@
+fileFormatVersion: 2
+guid: 869c0f6947d5cb541a1c5c40f14ddf17
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6052605021578202532
+    second: daance_0
+  - first:
+      213: -627092237187618939
+    second: daance_1
+  - first:
+      213: 7435077721176477579
+    second: daance_2
+  - first:
+      213: 2286135438096211189
+    second: daance_3
+  - first:
+      213: -8216782955465419584
+    second: daance_4
+  - first:
+      213: 4552403766360378420
+    second: daance_5
+  - first:
+      213: 6965443729617179644
+    second: daance_6
+  - first:
+      213: 4376981842276992384
+    second: daance_7
+  - first:
+      213: -6442604436175721169
+    second: daance_8
+  - first:
+      213: 7005268466706566186
+    second: daance_9
+  - first:
+      213: -8888261676238165250
+    second: daance_10
+  - first:
+      213: -7890707658172439261
+    second: daance_11
+  - first:
+      213: 7338625455790516002
+    second: daance_12
+  - first:
+      213: 4213623261899567308
+    second: daance_13
+  - first:
+      213: -5950564322560511374
+    second: daance_14
+  - first:
+      213: 8984796690649612959
+    second: daance_15
+  - first:
+      213: 9098404761926221247
+    second: daance_16
+  - first:
+      213: -996427422860903448
+    second: daance_17
+  - first:
+      213: 7339312200995599803
+    second: daance_18
+  - first:
+      213: -1146270587232545411
+    second: daance_19
+  - first:
+      213: -2145138238969379054
+    second: daance_20
+  - first:
+      213: 7103380818531466174
+    second: daance_21
+  - first:
+      213: -2726495944623137832
+    second: daance_22
+  - first:
+      213: 8560712087978970980
+    second: daance_23
+  - first:
+      213: 7439407842752562107
+    second: daance_24
+  - first:
+      213: -8242703757910259749
+    second: daance_25
+  - first:
+      213: 7166819108393200178
+    second: daance_26
+  - first:
+      213: -1193568857999647791
+    second: daance_27
+  - first:
+      213: -2467863304860674422
+    second: daance_28
+  - first:
+      213: 30790608100301857
+    second: daance_29
+  - first:
+      213: -8345360625638293376
+    second: daance_30
+  - first:
+      213: 7457737132016790936
+    second: daance_31
+  - first:
+      213: 4237857469340093297
+    second: daance_32
+  - first:
+      213: -4894429582117540159
+    second: daance_33
+  - first:
+      213: -115925311199100626
+    second: daance_34
+  - first:
+      213: 6191923178673830120
+    second: daance_35
+  - first:
+      213: 504010304338074814
+    second: daance_36
+  - first:
+      213: 3487284609077936650
+    second: daance_37
+  - first:
+      213: -1857815948738047113
+    second: daance_38
+  - first:
+      213: -552086598263134421
+    second: daance_39
+  - first:
+      213: 1797394842273468360
+    second: daance_40
+  - first:
+      213: -1025468424396383798
+    second: daance_41
+  - first:
+      213: -5918226031996412648
+    second: daance_42
+  - first:
+      213: -2941235514767534630
+    second: daance_43
+  - first:
+      213: 585283136835508341
+    second: daance_44
+  - first:
+      213: -4098837610612402762
+    second: daance_45
+  - first:
+      213: -2475570779903320736
+    second: daance_46
+  - first:
+      213: 8446101440261297809
+    second: daance_47
+  - first:
+      213: 7448048515022334821
+    second: daance_48
+  - first:
+      213: -4787591687375354333
+    second: daance_49
+  - first:
+      213: 4027719410715157332
+    second: daance_50
+  - first:
+      213: 4154145405209951786
+    second: daance_51
+  - first:
+      213: -2805204403234204608
+    second: daance_52
+  - first:
+      213: -8064782758508902473
+    second: daance_53
+  - first:
+      213: 1802376443128985123
+    second: daance_54
+  - first:
+      213: -7820826150277946599
+    second: daance_55
+  - first:
+      213: -7317062751639177051
+    second: daance_56
+  - first:
+      213: -7264091675379414658
+    second: daance_57
+  - first:
+      213: 6407705285891443959
+    second: daance_58
+  - first:
+      213: 4402315555728391845
+    second: daance_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: daance_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 420
+        width: 259
+        height: 727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52f51b0dc3d00ca0800000000000000
+      internalID: -6052605021578202532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceD
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 0
+        width: 748
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587e609ceee1c47f0800000000000000
+      internalID: -627092237187618939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceA
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 0
+        width: 845
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f05207bc3be2760800000000000000
+      internalID: 7435077721176477579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_3
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1041
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc1828811cf9bf10800000000000000
+      internalID: 2286135438096211189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_4
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1054
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4dff6bf6f18fd80800000000000000
+      internalID: -8216782955465419584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_5
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1032
+        width: 688
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c8f081b136d2f30800000000000000
+      internalID: 4552403766360378420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceN
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 0
+        width: 767
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3ddc6ea2a3aa060800000000000000
+      internalID: 6965443729617179644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_7
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 1029
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08541499bc92ebc30800000000000000
+      internalID: 4376981842276992384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_8
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 1026
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2de36156654796a0800000000000000
+      internalID: -6442604436175721169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_9
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 1002
+        width: 302
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c4a421e86b73160800000000000000
+      internalID: 7005268466706566186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_10
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 993
+        width: 221
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa2b15f81d86a480800000000000000
+      internalID: -8888261676238165250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceE
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 19
+        width: 700
+        height: 1131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3256d2011339e7290800000000000000
+      internalID: -7890707658172439261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_12
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 952
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227680868f808d560800000000000000
+      internalID: 7338625455790516002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_13
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 959
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0b8de280cc97a30800000000000000
+      internalID: 4213623261899567308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanceC
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 61
+        width: 696
+        height: 960
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272faaca6495b6da0800000000000000
+      internalID: -5950564322560511374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_15
+      rect:
+        serializedVersion: 2
+        x: 3451
+        y: 984
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9286459cf860bc70800000000000000
+      internalID: 8984796690649612959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_16
+      rect:
+        serializedVersion: 2
+        x: 3174
+        y: 877
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbdb551fce6044e70800000000000000
+      internalID: 9098404761926221247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_17
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 861
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebfae7c98afb22f0800000000000000
+      internalID: -996427422860903448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_18
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 845
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5780cbf897ad560800000000000000
+      internalID: 7339312200995599803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_19
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 843
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75968f59f0a710f0800000000000000
+      internalID: -1146270587232545411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_20
+      rect:
+        serializedVersion: 2
+        x: 3112
+        y: 834
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2178f181320fa32e0800000000000000
+      internalID: -2145138238969379054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_21
+      rect:
+        serializedVersion: 2
+        x: 3112
+        y: 808
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb34e81837449260800000000000000
+      internalID: 7103380818531466174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_22
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 800
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbd13b426a892ad0800000000000000
+      internalID: -2726495944623137832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_23
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 795
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f01649942cdc670800000000000000
+      internalID: 8560712087978970980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_24
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 791
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3858e64061e3760800000000000000
+      internalID: 7439407842752562107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_25
+      rect:
+        serializedVersion: 2
+        x: 3195
+        y: 795
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd74bf89a980c9d80800000000000000
+      internalID: -8242703757910259749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_26
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 779
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a2245f108a57360800000000000000
+      internalID: 7166819108393200178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_27
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 782
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db56fb82779f6fe0800000000000000
+      internalID: -1193568857999647791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_28
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 772
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86de87466360cdd0800000000000000
+      internalID: -2467863304860674422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_29
+      rect:
+        serializedVersion: 2
+        x: 3119
+        y: 769
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c9c3a15e36d6000800000000000000
+      internalID: 30790608100301857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_30
+      rect:
+        serializedVersion: 2
+        x: 3125
+        y: 758
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0804c420ab25f2c80800000000000000
+      internalID: -8345360625638293376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_31
+      rect:
+        serializedVersion: 2
+        x: 3143
+        y: 766
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89de916a8643f7760800000000000000
+      internalID: 7457737132016790936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_32
+      rect:
+        serializedVersion: 2
+        x: 3149
+        y: 763
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b80cc4ae4efca30800000000000000
+      internalID: 4237857469340093297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_33
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 764
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce68b31a3e731cb0800000000000000
+      internalID: -4894429582117540159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_34
+      rect:
+        serializedVersion: 2
+        x: 3195
+        y: 766
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21408d2b86246ef0800000000000000
+      internalID: -115925311199100626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_35
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 717
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e87c5523512ee550800000000000000
+      internalID: 6191923178673830120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_36
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 754
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc153193ba9ef600800000000000000
+      internalID: 504010304338074814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_37
+      rect:
+        serializedVersion: 2
+        x: 3134
+        y: 760
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0207c220e2556030800000000000000
+      internalID: 3487284609077936650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_38
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 733
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773d96ddc36b736e0800000000000000
+      internalID: -1857815948738047113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_39
+      rect:
+        serializedVersion: 2
+        x: 3193
+        y: 739
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27a549f9289658f0800000000000000
+      internalID: -552086598263134421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_40
+      rect:
+        serializedVersion: 2
+        x: 2573
+        y: 725
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf44d60611a1f810800000000000000
+      internalID: 1797394842273468360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_41
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 729
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac95973b6edc4c1f0800000000000000
+      internalID: -1025468424396383798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_42
+      rect:
+        serializedVersion: 2
+        x: 2554
+        y: 715
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d526ea7cc3edda0800000000000000
+      internalID: -5918226031996412648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_43
+      rect:
+        serializedVersion: 2
+        x: 3141
+        y: 707
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad59485f1e1ae27d0800000000000000
+      internalID: -2941235514767534630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_44
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 704
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5785b1879e75f1800800000000000000
+      internalID: 585283136835508341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_45
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 675
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5df63e8e00e17c0800000000000000
+      internalID: -4098837610612402762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_46
+      rect:
+        serializedVersion: 2
+        x: 3197
+        y: 689
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d9687ed7105add0800000000000000
+      internalID: -2475570779903320736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_47
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 676
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19690b3b284963570800000000000000
+      internalID: 8446101440261297809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_48
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 658
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b28c7b9a8cc5760800000000000000
+      internalID: 7448048515022334821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_49
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 658
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3260160e9be0f8db0800000000000000
+      internalID: -4787591687375354333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_50
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 651
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4536f9ad67555e730800000000000000
+      internalID: 4027719410715157332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_51
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 537
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e3cd68c3d76a930800000000000000
+      internalID: 4154145405209951786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_52
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 517
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0441dd63579e119d0800000000000000
+      internalID: -2805204403234204608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_53
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 501
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7c1686fc2241090800000000000000
+      internalID: -8064782758508902473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_54
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 488
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3263c3c53d3530910800000000000000
+      internalID: 1802376443128985123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_55
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 490
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913e8968d08d67390800000000000000
+      internalID: -7820826150277946599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_56
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 454
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8fd41e132947a90800000000000000
+      internalID: -7317062751639177051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_57
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 354
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e794329ab13c03b90800000000000000
+      internalID: -7264091675379414658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_58
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 213
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fcc3fe020ebce850800000000000000
+      internalID: 6407705285891443959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daance_59
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 63
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aefd586caa281d30800000000000000
+      internalID: 4402315555728391845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 281238741983f4249abc57bc8f1e7b5c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DanceA: 7435077721176477579
+      DanceC: -5950564322560511374
+      DanceD: -627092237187618939
+      DanceE: -7890707658172439261
+      DanceN: 6965443729617179644
+      daance_0: -6052605021578202532
+      daance_10: -8888261676238165250
+      daance_12: 7338625455790516002
+      daance_13: 4213623261899567308
+      daance_15: 8984796690649612959
+      daance_16: 9098404761926221247
+      daance_17: -996427422860903448
+      daance_18: 7339312200995599803
+      daance_19: -1146270587232545411
+      daance_20: -2145138238969379054
+      daance_21: 7103380818531466174
+      daance_22: -2726495944623137832
+      daance_23: 8560712087978970980
+      daance_24: 7439407842752562107
+      daance_25: -8242703757910259749
+      daance_26: 7166819108393200178
+      daance_27: -1193568857999647791
+      daance_28: -2467863304860674422
+      daance_29: 30790608100301857
+      daance_3: 2286135438096211189
+      daance_30: -8345360625638293376
+      daance_31: 7457737132016790936
+      daance_32: 4237857469340093297
+      daance_33: -4894429582117540159
+      daance_34: -115925311199100626
+      daance_35: 6191923178673830120
+      daance_36: 504010304338074814
+      daance_37: 3487284609077936650
+      daance_38: -1857815948738047113
+      daance_39: -552086598263134421
+      daance_4: -8216782955465419584
+      daance_40: 1797394842273468360
+      daance_41: -1025468424396383798
+      daance_42: -5918226031996412648
+      daance_43: -2941235514767534630
+      daance_44: 585283136835508341
+      daance_45: -4098837610612402762
+      daance_46: -2475570779903320736
+      daance_47: 8446101440261297809
+      daance_48: 7448048515022334821
+      daance_49: -4787591687375354333
+      daance_5: 4552403766360378420
+      daance_50: 4027719410715157332
+      daance_51: 4154145405209951786
+      daance_52: -2805204403234204608
+      daance_53: -8064782758508902473
+      daance_54: 1802376443128985123
+      daance_55: -7820826150277946599
+      daance_56: -7317062751639177051
+      daance_57: -7264091675379414658
+      daance_58: 6407705285891443959
+      daance_59: 4402315555728391845
+      daance_7: 4376981842276992384
+      daance_8: -6442604436175721169
+      daance_9: 7005268466706566186
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
