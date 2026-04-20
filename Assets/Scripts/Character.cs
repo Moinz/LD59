@@ -14,7 +14,7 @@ public class Character : MonoBehaviour
     
     private void Start()
     {
-        PlayerCursor.playerClick += OnPlayerClick;
+        PlayerCursor.PlayerClickGoal += OnPlayerClickGoal;
         
         MusicManager.markerUpdated += OnMarkerUpdated;
         MusicManager.beatUpdated += OnBeatUpdated;
@@ -34,10 +34,10 @@ public class Character : MonoBehaviour
     
     private void OnDestroy()
     {
-        PlayerCursor.playerClick -= OnPlayerClick;
+        PlayerCursor.PlayerClickGoal -= OnPlayerClickGoal;
     }
     
-    private void OnPlayerClick()
+    private void OnPlayerClickGoal()
     {
         GetUniqueSprite();
     }

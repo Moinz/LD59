@@ -62,7 +62,8 @@ public class MusicManager : MonoBehaviour
         musicInstance.stop(FMOD.Studio.STOP_MODE.IMMEDIATE);
         musicInstance.release();
         
-        timelineHandle.Free();
+        if (timelineHandle.IsAllocated)
+            timelineHandle.Free();
     }
 
     private void Update()
